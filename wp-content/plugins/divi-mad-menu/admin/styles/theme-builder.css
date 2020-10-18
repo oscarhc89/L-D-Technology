@@ -1,0 +1,12 @@
+/* module styles(in TB modules list modal) */
+.et-db #et-boc .et-l .et-fb-modules-list li.dvmm_mad_menu {
+    background: #0758e6;
+    color: #fff;
+}
+.et-db #et-boc .et-l .et-fb-modules-list li.dvmm_mad_menu:hover {
+    background: #0440a9;
+    color: #fff;
+}
+.et-db #et-boc .et-l .et-fb-modules-list ul>li.dvmm_mad_menu:before {
+    color: #fff;
+}

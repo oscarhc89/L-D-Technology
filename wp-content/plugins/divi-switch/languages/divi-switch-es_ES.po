@@ -1,0 +1,997 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi Switch\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-03 09:25+0000\n"
+"PO-Revision-Date: 2020-07-03 09:26+0000\n"
+"Last-Translator: admin\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es-ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: functions.php:148
+msgid "Menu Item"
+msgstr "Item de Menu"
+
+#: functions.php:165
+msgid "Set as Mega Menu "
+msgstr "Fijar como Mega Menu"
+
+#: functions.php:224 includes/switch-theme-options.php:49
+msgid "No Items"
+msgstr "Sin Items"
+
+#: functions.php:531
+msgid "Read More"
+msgstr "Leer Mas"
+
+#: functions.php:845
+msgid "Select Page"
+msgstr "Seleccione Pagina"
+
+#: functions.php:892
+msgid "Page Specific Logo"
+msgstr "Logo Especifico para Página"
+
+#: functions.php:909 functions.php:910
+msgid "Set page specific logo"
+msgstr "Fijar un logo específico de página"
+
+#: functions.php:913
+msgid "Click above to choose logo image"
+msgstr "Clickee a continuación para elegir la imagen de logo"
+
+#: functions.php:914
+msgid "Remove page specific logo"
+msgstr "Remover el logo específico de página"
+
+#: functions.php:1199
+msgid "Go to Divi Switch"
+msgstr "Ir a Divi Switch"
+
+#: includes/switch-customizer.php:14
+msgid "Divi Space Settings"
+msgstr "Configuracion Divi Space"
+
+#: includes/switch-customizer.php:15
+msgid "Advanced customizations for Divi Space products"
+msgstr "Customizaciones avanzadas para los productos de Divi Space"
+
+#. Name of the plugin
+#: includes/switch-customizer.php:26 includes/switch-theme-options.php:8
+msgid "Divi Switch"
+msgstr "Divi Switch"
+
+#: includes/switch-customizer.php:331
+msgid "Custom Mobile Menu Icon"
+msgstr "Icono de menu mobile custom"
+
+#: includes/switch-customizer.php:347
+msgid "Header Background Image"
+msgstr "Encabezado: Imagen de Fondo"
+
+#: includes/switch-customizer.php:361
+msgid "Header Background Image Repeat"
+msgstr "Encabezado: Imagen de fondo, Repetición."
+
+#: includes/switch-customizer.php:366
+msgid "Repeat"
+msgstr "Repetir"
+
+#: includes/switch-customizer.php:367
+msgid "No Repeat"
+msgstr "Sin Repetición"
+
+#: includes/switch-customizer.php:368
+msgid "Repeat Y"
+msgstr "Repetir Y"
+
+#: includes/switch-customizer.php:369
+msgid "Repeat X"
+msgstr "Repetir X"
+
+#: includes/switch-customizer.php:381
+msgid "Header Background Image Position"
+msgstr "Encabezado: Posición de Imagen de fondo"
+
+#: includes/switch-customizer.php:386
+msgid "Left Top"
+msgstr "Izquierdo Tope"
+
+#: includes/switch-customizer.php:387
+msgid "Left Center"
+msgstr "Izquierdo Centro"
+
+#: includes/switch-customizer.php:388
+msgid "Left Bottom"
+msgstr "Izquierdo Inferior"
+
+#: includes/switch-customizer.php:389
+msgid "Right Top"
+msgstr "Derecho Tope"
+
+#: includes/switch-customizer.php:390
+msgid "Right Center"
+msgstr ""
+"Derecho Centro\n"
+
+#: includes/switch-customizer.php:391
+msgid "Right Bottom"
+msgstr "Derecho Inferior"
+
+#: includes/switch-customizer.php:392
+msgid "Center Top"
+msgstr "Centro Tope"
+
+#: includes/switch-customizer.php:393
+msgid "Center Center"
+msgstr "Centro Centro"
+
+#: includes/switch-customizer.php:394
+msgid "Center Bottom"
+msgstr "Centro Inferior"
+
+#: includes/switch-customizer.php:406
+msgid "Header Background Image Size"
+msgstr "Encabezado: tamaño de imagen de fondo."
+
+#: includes/switch-customizer.php:411
+msgid "Auto"
+msgstr "Auto"
+
+#: includes/switch-customizer.php:412
+msgid "Cover"
+msgstr "Cubrir"
+
+#: includes/switch-customizer.php:413
+msgid "Contain"
+msgstr "Contener"
+
+#: includes/switch-customizer.php:427
+msgid "Back To Top Icon Size"
+msgstr "Tamaño del icono de botón Volver al Tope"
+
+#: includes/switch-customizer.php:448
+msgid "Back To Top Position Right"
+msgstr ""
+"Posición derecha de botón de Volver al Tope\n"
+
+#: includes/switch-customizer.php:468
+msgid "Back To Top Position Bottom"
+msgstr "Posición inferior de botón de Volver al Tope"
+
+#: includes/switch-customizer.php:488
+msgid "Back To Top Button Left Edge Radius"
+msgstr "Radio del extremo izquierdo de botón de Volver al Tope"
+
+#: includes/switch-customizer.php:508
+msgid "Back To Top Button Right Edge Radius"
+msgstr "Radio del extremo derecho de botón de Volver al Tope"
+
+#: includes/switch-customizer.php:527
+msgid "Back To Top Button Background Color"
+msgstr "Color de fondo en Boton de Volver al Tope"
+
+#: includes/switch-customizer.php:541
+msgid "Back To Top Button Background Color Hover"
+msgstr ""
+"Color de fondo (hover) \n"
+"en Boton de Volver al Tope"
+
+#: includes/switch-customizer.php:555
+msgid "Back To Top Button Icon color"
+msgstr "Color de Icono en el botón de Volver al Tope"
+
+#: includes/switch-customizer.php:569
+msgid "Back To Top Button Icon Color Hover"
+msgstr ""
+"Color de Icono (hover) en el botón de Volver al Tope\n"
+
+#: includes/switch-customizer.php:583
+msgid "Archive Header Background Color"
+msgstr "Color de fondo de Encabezado de sección Archivo"
+
+#: includes/switch-customizer.php:596
+msgid "Archive Title Padding"
+msgstr "Espaciado del titulo en sección Archivo"
+
+#: includes/switch-customizer.php:615
+msgid "Archive Header Text Color"
+msgstr "Color de texto del Encabezado de sección Archivo"
+
+#: includes/switch-customizer.php:629
+msgid "Archive Post Separator Color"
+msgstr "Color de separador de publicación en sección Archivo"
+
+#: includes/switch-customizer.php:642
+msgid "Archive Post Separator Margin Top"
+msgstr "Margen superior del separador de publicacion de sección Archivo"
+
+#: includes/switch-customizer.php:660
+msgid "Archive Post Separator Margin Bottom"
+msgstr "Margen inferior del separador de publicacion de sección Archivo"
+
+#: includes/switch-customizer.php:678
+msgid "Archive Post Separator Height"
+msgstr "Altura del separador de publicación en sección Archivo"
+
+#: includes/switch-customizer.php:696
+msgid "Archive Post Separator Width"
+msgstr "Ancho del separador de publicacion de sección Archivo"
+
+#: includes/switch-theme-options.php:33
+msgid "(Disabled)"
+msgstr "(Desactivado)"
+
+#: includes/switch-theme-options.php:88
+msgid "Header"
+msgstr "Encabezado"
+
+#: includes/switch-theme-options.php:93
+msgid "Footer"
+msgstr "Pie de Pagina"
+
+#: includes/switch-theme-options.php:98
+msgid "Main Content"
+msgstr "Contenido Principal"
+
+#: includes/switch-theme-options.php:103
+msgid "Mobile"
+msgstr "Mobil"
+
+#: includes/switch-theme-options.php:113
+msgid "Posts"
+msgstr "Publicaciones"
+
+#: includes/switch-theme-options.php:118
+msgid "Archives"
+msgstr "Archivos"
+
+#: includes/switch-theme-options.php:123
+msgid "Integration"
+msgstr "Integración"
+
+#: includes/switch-theme-options.php:128
+msgid "Advanced"
+msgstr "Avanzado"
+
+#: includes/switch-theme-options.php:133
+msgid "Import/Export"
+msgstr "Importar/Exportar"
+
+#: includes/switch-theme-options.php:139
+msgid "About &amp; License Key"
+msgstr "Acerca de y clave de licencia"
+
+#: includes/switch-theme-options.php:153
+msgid "Remove main header underline"
+msgstr "Remover subrayado del contenido principal del encabezado"
+
+#: includes/switch-theme-options.php:157
+msgid ""
+"By defaut divi uses box-shadow to create a line separating the header from "
+"the content. This option removes that functionality"
+msgstr ""
+"Por defecto divi usa box-shadow, para crear una linea separadora entre el "
+"encabezado y el contenido. Esta opción remueve dicha linea."
+
+#: includes/switch-theme-options.php:160
+msgid "App style menu"
+msgstr "Menu estilo App"
+
+#: includes/switch-theme-options.php:164
+msgid ""
+"Make better room of the header space on mobile with this app style menu hack."
+msgstr ""
+"Mejore el espacio del encabezado en dispositivos móbiles con este hack de "
+"estilo de app."
+
+#: includes/switch-theme-options.php:167
+msgid "Make phone number click to call"
+msgstr "Convertir al número de telefono como \"clickear para llamar\""
+
+#: includes/switch-theme-options.php:171
+msgid ""
+"When users click on your number from a mobile, it'll automatically dial the "
+"number for them."
+msgstr ""
+"Cuando los usuarios cliquean en tu número desde un dispositivo movil, "
+"marcará dicho número automaticamente."
+
+#: includes/switch-theme-options.php:174
+msgid "Open social links in new tab"
+msgstr "Abrir íconos de redes sociales en una nueva solapa"
+
+#: includes/switch-theme-options.php:178
+msgid ""
+"Open social icons in a new tab to stop people closing your website when "
+"using them."
+msgstr ""
+"Abrir los iconos de redes sociales en una nueva solapa para evitar que la "
+"gente cierre tu sitio cuando los usan."
+
+#: includes/switch-theme-options.php:181
+msgid "Center align top header items"
+msgstr "Alinear y centrar los items del encabezado top"
+
+#: includes/switch-theme-options.php:185
+msgid ""
+"Move top header items into center alignment, rather than the default left / "
+"right."
+msgstr ""
+"Mover los items del encabezado superior en alineamiento centralizado, en vez "
+"de izquierda/derecha como por defecto."
+
+#: includes/switch-theme-options.php:188
+msgid "Different logo on scroll"
+msgstr "Logo diferente en scroll"
+
+#: includes/switch-theme-options.php:191
+msgid "Upload logo"
+msgstr "Subir logo"
+
+#: includes/switch-theme-options.php:192
+msgid "Have a different logo on scroll."
+msgstr "Obtiene un logo diferente durante el scroll."
+
+#: includes/switch-theme-options.php:195
+msgid "Burger menu text"
+msgstr "Texto del Burger menu"
+
+#: includes/switch-theme-options.php:199
+msgid "Choose a word to place before burger icon."
+msgstr "Elija una palabra para ubicar antes del Icono Burger."
+
+#: includes/switch-theme-options.php:209
+msgid "Page specific logo"
+msgstr "Logo especifico para página"
+
+#: includes/switch-theme-options.php:213
+msgid ""
+"Enable specific logos on individual pages. Logo is set on each page in meta "
+"box."
+msgstr ""
+"Activar logo específico para paginas individuales. El logo se activa en cada "
+"pagina en un meta box."
+
+#: includes/switch-theme-options.php:217
+msgid "Replace fullscreen menu with a layout"
+msgstr "Reemplazar la pantalla completa con un diseño"
+
+#: includes/switch-theme-options.php:221
+msgid "Replaces the fullscreen menu with a library layout."
+msgstr ""
+"Reemplazar el menu de pantalla completa con un diseño de la biblioteca."
+
+#: includes/switch-theme-options.php:226
+msgid "Transparent header for the homepage"
+msgstr "Encabezado transparente para la página de inicio"
+
+#: includes/switch-theme-options.php:230
+msgid ""
+"Create a transparent Divi Primary & Secondary Menu only for the homepage."
+msgstr "Crear un menu Divi Primario y Secundario solo para la pagina Home."
+
+#: includes/switch-theme-options.php:234
+msgid "Transparent header for all pages"
+msgstr "Encabezado transparente para todas las páginas."
+
+#: includes/switch-theme-options.php:238
+msgid "Create a transparent Divi Primary & Secondary Menu globally."
+msgstr "Crear un Menu Divi Primario y Secundario trasparente de manera global."
+
+#: includes/switch-theme-options.php:242
+msgid "Menu hover effect"
+msgstr "Efecto \"hover\" para el menú"
+
+#: includes/switch-theme-options.php:246
+msgid ""
+"Normally, website navigation is displayed on top and disappears when users "
+"scroll down. Fixed/sticky navigation menu remains visible and in the same "
+"position as the users scroll down and move about a site."
+msgstr ""
+"Normalmente la navegación de la web se muestra arriba de todo y desaparece "
+"cuando el usuario hace scroll. La navegación fija permanece visible en la "
+"misma posición mientras el usuario realiza un scroll."
+
+#: includes/switch-theme-options.php:249
+msgid "Keep hover style on active link"
+msgstr "Mantener el estilo \"hover\" en el enlace activo"
+
+#: includes/switch-theme-options.php:253
+msgid ""
+"Hover style will be displayed on the menu item that is currently active."
+msgstr ""
+"El efecto de hover será mostrado en el item del menu que está activo "
+"actualmente."
+
+#: includes/switch-theme-options.php:256
+msgid "Menu hover style"
+msgstr "Estilo del menu hover"
+
+#: includes/switch-theme-options.php:269
+msgid ""
+"Choose style for the menu hover. Switch \"Menu hover effect\" must be "
+"enabled in the order this to work. "
+msgstr ""
+"Elija un estilo para el menu hover. El switch de \"Efecto de menu Hover\" "
+"tiene que estar activado para que esto funcione."
+
+#: includes/switch-theme-options.php:274
+msgid "Menu hover border height"
+msgstr "Altura del borde en el Menu hover"
+
+#: includes/switch-theme-options.php:279
+msgid "Choose a border with for the menu hover style"
+msgstr "Elija un tamaño de borde para el estilo del hover menu"
+
+#: includes/switch-theme-options.php:284
+msgid "Menu hover accent color"
+msgstr "Color de acento en el Menu hover"
+
+#: includes/switch-theme-options.php:289
+msgid "Choose a color for the menu hover style"
+msgstr "Elija un color para el estilo del menu hover"
+
+#: includes/switch-theme-options.php:357
+msgid "Remove bullet points from footer"
+msgstr "Remover viñetas del pie de pagina"
+
+#: includes/switch-theme-options.php:361
+msgid "Remove the footer bullets and reposition the links properly."
+msgstr ""
+"Remover las viñetas del pie de página y reposicionar los enlaces "
+"apropiadamente."
+
+#: includes/switch-theme-options.php:364
+msgid "Hide bottom footer"
+msgstr "Esconder el pie de pagina"
+
+#: includes/switch-theme-options.php:368
+msgid "Remove the bottom footer, the one with the ET links."
+msgstr "Remover el piso del pie de página, el que contiene los links de ET."
+
+#: includes/switch-theme-options.php:371
+msgid "Stop the footer floating on empty pages"
+msgstr "No mostrar el pié de página en páginas vacías."
+
+#: includes/switch-theme-options.php:375
+msgid ""
+"Pages with little or no content show the bottom footer in the center of the "
+"page. Not any more."
+msgstr ""
+"Páginas con poco o ningún contenido muestran el pie de pagina en el centro "
+"de la pagina.  Ya no mas."
+
+#: includes/switch-theme-options.php:379
+msgid "Replace footer widgets with layout"
+msgstr "Reemplazar los widgets del pie de página con un diseño"
+
+#: includes/switch-theme-options.php:383
+msgid ""
+"Replace the footer widget area with a library layout. To replace the entire "
+"footer, select your layout here and enable the 'Hide Bottom Footer' option "
+"too. In order for the footer layout styling to work correctly, the Builder > "
+"Advanced > Static CSS File Generation option must be disabled."
+msgstr ""
+"Reemplazar el widget del pie de página con un diseño de la libreria. Para "
+"reemplazar el pie de página completo, selecione su diseño aquí y active el "
+"\"Esconder piso de Pie de Página\" como opción también. Para que el estilo "
+"del diseño en el pie de página funcione correctamente, en el Constructor "
+"seleccione Avanzado y luego verifique que la opción de Generación de CSS "
+"Estática de archivo este desactivada."
+
+#: includes/switch-theme-options.php:394
+msgid "Remove the dividing sidebar line"
+msgstr "Remover la linea divisoria de la barra lateral"
+
+#: includes/switch-theme-options.php:398
+msgid ""
+"Get rid of the thin grey line that separates the sidebar from the main "
+"content."
+msgstr ""
+"Elimina la linea gris que separa la barra lateral del contenido principal."
+
+#: includes/switch-theme-options.php:402
+msgid "Global preloader"
+msgstr "Preloader global"
+
+#: includes/switch-theme-options.php:406
+msgid "Show a cool loading screen while your page objects load."
+msgstr ""
+"Mostrar una pantalla de carga genial mientras los objetos de la página se "
+"cargan."
+
+#: includes/switch-theme-options.php:406
+msgid " "
+msgstr ""
+
+#: includes/switch-theme-options.php:410
+msgid "Global preloader transition type"
+msgstr "Tipo de transición del Preloader Global"
+
+#: includes/switch-theme-options.php:414
+msgid "Fade out"
+msgstr "Desvanecerse"
+
+#: includes/switch-theme-options.php:415
+msgid "Rotate out"
+msgstr "Girar hacia afuera"
+
+#: includes/switch-theme-options.php:416
+msgid "Round out"
+msgstr "Redondear"
+
+#: includes/switch-theme-options.php:417
+msgid "Slide left"
+msgstr "Deslizar a la izquierda"
+
+#: includes/switch-theme-options.php:418
+msgid "Slide right"
+msgstr "Deslizar a la derecha"
+
+#: includes/switch-theme-options.php:419
+msgid "Slide up"
+msgstr "Deslizar arriba"
+
+#: includes/switch-theme-options.php:420
+msgid "Slide down"
+msgstr "Deslizar para abajo"
+
+#: includes/switch-theme-options.php:421
+msgid "Slide up left"
+msgstr "Deslizar arriba e izquierda"
+
+#: includes/switch-theme-options.php:422
+msgid "Slide up right"
+msgstr "Deslizar arriba y derecha"
+
+#: includes/switch-theme-options.php:423
+msgid "Slide down left"
+msgstr "Deslizar para abajo izquierda"
+
+#: includes/switch-theme-options.php:424
+msgid "Slide down right"
+msgstr "Deslizar para abajo derecha"
+
+#: includes/switch-theme-options.php:425
+msgid "Bottom left hinge"
+msgstr ""
+"Visagra Inferior izquierda\n"
+
+#: includes/switch-theme-options.php:426
+msgid "Top left hinge"
+msgstr "Tope Izquierdo de Visagra"
+
+#: includes/switch-theme-options.php:427
+msgid "Bottom right hinge"
+msgstr "Visagra inferior derecha"
+
+#: includes/switch-theme-options.php:428
+msgid "Top right hinge"
+msgstr "Tope derecho de Visagra"
+
+#: includes/switch-theme-options.php:430
+msgid "Set the default transition of the preloader."
+msgstr "Fijar la transición por defecto del preloader."
+
+#: includes/switch-theme-options.php:435
+msgid "Global preloader icon"
+msgstr "Icono del Preloader Global"
+
+#: includes/switch-theme-options.php:439
+msgid "Audio"
+msgstr "Audio"
+
+#: includes/switch-theme-options.php:440
+msgid "Ball triangle"
+msgstr "Triangulo bola"
+
+#: includes/switch-theme-options.php:441
+msgid "Bars"
+msgstr ""
+"Barras\n"
+
+#: includes/switch-theme-options.php:442
+msgid "Circles"
+msgstr "Circulos"
+
+#: includes/switch-theme-options.php:443
+msgid "Grid"
+msgstr "Grilla"
+
+#: includes/switch-theme-options.php:444
+msgid "Hearts"
+msgstr "Corazones"
+
+#: includes/switch-theme-options.php:445
+msgid "Oval"
+msgstr "Ovalado"
+
+#: includes/switch-theme-options.php:446
+msgid "Puff"
+msgstr "Nube"
+
+#: includes/switch-theme-options.php:447
+msgid "Rings"
+msgstr "Anillos"
+
+#: includes/switch-theme-options.php:448
+msgid "Spinning circles"
+msgstr "Circulos que giran"
+
+#: includes/switch-theme-options.php:449
+msgid "Three dots"
+msgstr "Tres puntos"
+
+#: includes/switch-theme-options.php:451
+msgid "Set the loader icon."
+msgstr "Fijar el Icono del loader."
+
+#: includes/switch-theme-options.php:456
+msgid "Global preloader foreground/background colors"
+msgstr "Colores de frente y fondo del preloader global."
+
+#: includes/switch-theme-options.php:461
+msgid "Set the foreground and background color of the global preloader."
+msgstr "Fijar el color de frente y fondo del preloader global."
+
+#: includes/switch-theme-options.php:465
+msgid "Portfolio image aspect ratio"
+msgstr "Aspecto de pantalla de la imagen de Portfolio"
+
+#: includes/switch-theme-options.php:469 includes/switch-theme-options.php:491 
+#: includes/switch-theme-options.php:506
+msgid "(Default)"
+msgstr "(Por Defecto)"
+
+#: includes/switch-theme-options.php:470
+msgid "Square"
+msgstr "Cuadrado"
+
+#: includes/switch-theme-options.php:471
+msgid "Book"
+msgstr ""
+"Libro\n"
+
+#: includes/switch-theme-options.php:472
+msgid "Cinema"
+msgstr "Cinema"
+
+#: includes/switch-theme-options.php:474
+msgid "Set the aspect ratio of images in the portfolio grid."
+msgstr "Fijar el aspecto de la imagen de grilla de portfolio."
+
+#: includes/switch-theme-options.php:479
+msgid "Stop gallery images opening a lightbox"
+msgstr "No mostrar a las imagenes de la galería en una ventana lightbox"
+
+#: includes/switch-theme-options.php:483
+msgid "Stop the gallery opening up the lightbox when clicked."
+msgstr ""
+"Impedir que las imagenes de la galería abran un lightbox cuando se cliquean."
+
+#: includes/switch-theme-options.php:487
+msgid "Slider animation - slide description"
+msgstr "Animación de deslizador - descripción"
+
+#: includes/switch-theme-options.php:492 includes/switch-theme-options.php:507
+msgid "Fly in from left"
+msgstr "Llegar volando desde la izquierda"
+
+#: includes/switch-theme-options.php:493 includes/switch-theme-options.php:508
+msgid "Fly in from right"
+msgstr "Llegar volando desde la derecha"
+
+#: includes/switch-theme-options.php:494 includes/switch-theme-options.php:509
+msgid "Flip on X axis'"
+msgstr "Invertir en el eje X"
+
+#: includes/switch-theme-options.php:495 includes/switch-theme-options.php:510
+msgid "Flip on Y axis"
+msgstr "Invertir en el eje Y"
+
+#: includes/switch-theme-options.php:497
+msgid "Set the default transition of the slide description."
+msgstr "Fijar la transición por defecto de la descripción del deslizador."
+
+#: includes/switch-theme-options.php:502
+msgid "Slider animation - image & video"
+msgstr "Animación de deslizador - imagen y video"
+
+#: includes/switch-theme-options.php:512
+msgid "Set the default transition of the slide image and video."
+msgstr "Fijar la transición por defecto de la imagen y video del deslizador."
+
+#: includes/switch-theme-options.php:517
+msgid "Remove the Projects post type"
+msgstr "Remover los Projectos como tipo de publicación"
+
+#: includes/switch-theme-options.php:521
+msgid "This unregisters the project post type"
+msgstr "Esto des-registra el tipo de post de proyecto"
+
+#: includes/switch-theme-options.php:545
+msgid "Custom 404 page"
+msgstr "Pagina 404 custom"
+
+#: includes/switch-theme-options.php:549
+msgid "Select a page to be displayed when a 404 Not Found error occurs."
+msgstr ""
+"Seleccione una pagina para ser mostrada cuando ocurren errores 404 de No "
+"Encontrado."
+
+#: includes/switch-theme-options.php:561
+msgid "Change breakpoint - 1406px"
+msgstr "Cambiar breakpoint de media queries a 1406px"
+
+#: includes/switch-theme-options.php:565 includes/switch-theme-options.php:572 
+#: includes/switch-theme-options.php:579 includes/switch-theme-options.php:586 
+#: includes/switch-theme-options.php:593 includes/switch-theme-options.php:600 
+#: includes/switch-theme-options.php:607
+msgid ""
+"Enter a number (without 'px') to change the pixel value of this breakpoint"
+msgstr ""
+"Ingrese un numero (sin 'px') para cambiar el valor de pixeles de este "
+"breakpoint"
+
+#: includes/switch-theme-options.php:568
+msgid "Change breakpoint - 1099px"
+msgstr "Cambiar breakpoint de media queries a 1099px"
+
+#: includes/switch-theme-options.php:575
+msgid "Change breakpoint - 981px"
+msgstr "Cambiar breakpoint de media queries a 981px"
+
+#: includes/switch-theme-options.php:582
+msgid "Change breakpoint - 801px"
+msgstr "Cambiar breakpoint de media queries a 801px"
+
+#: includes/switch-theme-options.php:589
+msgid "Change breakpoint - 768px"
+msgstr "Cambiar breakpoint de media queries a 768px"
+
+#: includes/switch-theme-options.php:596
+msgid "Change breakpoint - 480px"
+msgstr "Cambiar breakpoint de media queries a 480px"
+
+#: includes/switch-theme-options.php:603
+msgid "Change breakpoint - 381px"
+msgstr "Cambiar breakpoint de media queries a 381px"
+
+#: includes/switch-theme-options.php:611
+msgid "Collapse submenu items in the mobile menu"
+msgstr "Colapsar items del submenu in el menu mobile"
+
+#: includes/switch-theme-options.php:615
+#, php-format
+msgid ""
+"By default, submenu items are nested under their parent link in the mobile "
+"menu. This switch collapses submenu items until you click the parent link. "
+"NOTE: Set top level urls to '#' if using collapsible menus. Code provided by "
+"%sElegant Themes%s"
+msgstr ""
+"Por defecto, los items del submenu están agrupados debajo del link "
+"relacionado en el menu mobile. Este switch colapsa los items del submenu "
+"hasta que hagas click en el link relacionado. NOTA: Seleccione una url Tope "
+"como '#' si está usando menus colapsables. Código provisto por %sElegant "
+"Themes%s"
+
+#: includes/switch-theme-options.php:619
+msgid "Show text on mobile menu"
+msgstr "Mostrar texto en el menu mobile"
+
+#: includes/switch-theme-options.php:623
+msgid "Change the default Select Page text when using a centered header style."
+msgstr ""
+"Cambiar el texto por defecto de \"Seleccionar Pagina\" cuando se usa un "
+"estilo de encabezado centrado."
+
+#: includes/switch-theme-options.php:633
+msgid "Add comments in toggle"
+msgstr "Agregar comentarios en el conmutador"
+
+#: includes/switch-theme-options.php:637
+msgid "Move the comments into a toggle so they are hidden by default."
+msgstr ""
+"Mover los comentarios a un conmutador así permanecen escondidos por defecto."
+
+#: includes/switch-theme-options.php:647
+msgid "Add category title to top of category pages"
+msgstr "Agregar titulo de categoria al tope de paginas de categoría."
+
+#: includes/switch-theme-options.php:651
+msgid ""
+"Add category title to top of category pages - can be customised within the "
+"customizer."
+msgstr ""
+"Agregar titulo de categoria al top de paginas de categoría - se puede "
+"modificar dentro del customizador."
+
+#: includes/switch-theme-options.php:655
+msgid "Remove sidebar"
+msgstr "Remover la barra lateral"
+
+#: includes/switch-theme-options.php:659
+msgid "Removes the sidebar and seperator line on archive pages"
+msgstr ""
+"Remover la línea separadora de la barra lateral en las paginas de archivo"
+
+#: includes/switch-theme-options.php:663
+msgid "Add \"Read More\" link under posts"
+msgstr "Agregar link de \"Leer Mas\" debajo de las publicaciones"
+
+#: includes/switch-theme-options.php:667
+msgid "Adds a simple read more link under each post."
+msgstr "Agregar un \"leer mas\" simple debajo de cada publicación."
+
+#: includes/switch-theme-options.php:671
+msgid "Add separator line under posts"
+msgstr "Agregar linea separadora debajo de las publicaciones"
+
+#: includes/switch-theme-options.php:675
+msgid ""
+"Adds a separator line under each post. This can be further customized within "
+"the customizer."
+msgstr ""
+"Agregar una linea separadora debajo de cada publicación.  Esto se puede "
+"modificar aún mas en el customizador."
+
+#: includes/switch-theme-options.php:685
+msgid "Insert layout before main content"
+msgstr "Insertar diseño antes del contenido principal"
+
+#: includes/switch-theme-options.php:689
+msgid "Insert layout before main content under navigation."
+msgstr "Insertar diseño antes del contenido principal debajo de la navegación."
+
+#: includes/switch-theme-options.php:693
+msgid "Insert layout after main content"
+msgstr "Insertar diseño despues de contenido principal"
+
+#: includes/switch-theme-options.php:697
+msgid "Insert layout after main content above footer."
+msgstr ""
+"Insertar diseño despues del contenido principal, por arriba del pie de "
+"pagina."
+
+#: includes/switch-theme-options.php:701
+msgid "Insert layout before post content"
+msgstr "Insertar diseño después del contenido de publicaciones"
+
+#: includes/switch-theme-options.php:705
+msgid "Insert layout before post content below navigation."
+msgstr ""
+"Insertar diseño después del contenido de publicaciones y debajo de la "
+"navegación."
+
+#: includes/switch-theme-options.php:724
+msgid "Enable SVG uploads"
+msgstr "Activar subida de archivos SVG"
+
+#: includes/switch-theme-options.php:728
+msgid "Allows SVG files to be uploaded which WordPress blocks by default."
+msgstr ""
+"Permitir subida de archivos SVG los cuales son bloqueados en Wordpress por "
+"defecto."
+
+#: includes/switch-theme-options.php:732
+msgid "Enable Divi Shortcodes"
+msgstr "Habilitar códigos cortos Divi"
+
+#: includes/switch-theme-options.php:744
+msgid "Import/Export Options"
+msgstr "Opciones de Importar/Exportar"
+
+#: includes/switch-theme-options.php:748
+msgid ""
+"Click Export to download a JSON file containing your Divi Switch settings. "
+"Select a previously exported file and click Import to import the settings."
+msgstr ""
+"Clickee Exportar para descargar un archivo JSON que contiene toda la "
+"configuración de Divi Switch. Seleccione un archivo previamente exportado y "
+"clickee en Importar para importar la configuración."
+
+#: includes/switch-theme-options.php:768
+msgid "License key"
+msgstr "Clave de licencia"
+
+#: includes/switch-theme-options.php:772
+msgid "Enter your license key for Divi Switch."
+msgstr "Ingrese su clave de licencia para Divi Switch."
+
+#: includes/switch-theme-options.php:796
+msgid "Import"
+msgstr "Importar"
+
+#: includes/switch-theme-options.php:797
+msgid "Export"
+msgstr "Exportar"
+
+#: includes/pro/plugin-export.php:13
+msgid "Export Plugin Name"
+msgstr "Exportar el nombre del plugin"
+
+#: includes/pro/plugin-export.php:17
+msgid ""
+"Enter the plugin name that should be displayed when the exported plugin is "
+"installed."
+msgstr ""
+"Ingrese el nombre del plugin que debería mostrarse cuando el plugin "
+"exportado sea instalado."
+
+#: includes/pro/plugin-export.php:20
+msgid "Export Plugin Description"
+msgstr "Exportar la descripción del plugin"
+
+#: includes/pro/plugin-export.php:24
+msgid ""
+"Enter the plugin description that should be displayed when the exported "
+"plugin is installed."
+msgstr ""
+"Ingrese la descripción del plugin que debería mostrarse cuando el plugin "
+"exportado sea instalado."
+
+#: includes/pro/plugin-export.php:27
+msgid "Export Plugin Author"
+msgstr "Exportar Autor del plugin"
+
+#: includes/pro/plugin-export.php:31
+msgid ""
+"Enter the plugin author that should be displayed when the exported plugin is "
+"installed."
+msgstr ""
+"Ingrese el autor del plugin que deberia mostrarse cuando el plugin exportado "
+"sea instalado."
+
+#: includes/pro/plugin-export.php:34
+msgid "Export Plugin Author URL"
+msgstr "Exportar la URL del autor del plugin"
+
+#: includes/pro/plugin-export.php:38
+msgid "Enter a URL for the plugin author."
+msgstr "Ingrese la URL del autor del plugin."
+
+#: includes/pro/plugin-export.php:41
+msgid "Export Plugin Version"
+msgstr "Exportar la versión del plugin"
+
+#: includes/pro/plugin-export.php:45
+msgid ""
+"Enter the version number that should be displayed when the exported plugin "
+"is installed."
+msgstr ""
+"Ingrese el numero de versión que debería mostrarse cuando el plugin "
+"exportado sea instalado."
+
+#: includes/pro/plugin-export.php:59
+msgid "Please save your switches before exporting a plugin."
+msgstr "Por favor, guarde sus switches antes de exportar el plugin."
+
+#: includes/pro/plugin-export.php:60
+msgid "Export Plugin"
+msgstr "Exportar Plugin"
+
+#. Description of the plugin
+msgid ""
+"A Highly Customizable Development Utility For The Divi Theme & Builder Plugin"
+msgstr ""
+"Una herramienta altamente customizable para el Constructor de Temas de Divi "
+"y el Plugin."
+
+#. URI of the plugin
+msgid "https://divi.space/product/divi-switch/"
+msgstr "https://divi.space/product/divi-switch/"
+
+#. Author of the plugin
+msgid "Divi Space"
+msgstr "Divi Space"
+
+#. Author URI of the plugin
+msgid "https://divi.space/"
+msgstr "https://divi.space/"

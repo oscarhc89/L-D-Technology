@@ -1,0 +1,222 @@
+#form_data label {
+    font-size: 12px
+}
+
+#form_data .postbox {
+    padding: 15px 20px
+}
+
+#form_data .postbox h4.heading {
+    margin: 0;
+    padding-bottom: 10px
+}
+
+#form_data .postbox .text-input {
+    width: 100%;
+    padding: 5px 5px;
+    margin: 0
+}
+
+#form_data .postbox .explain {
+    padding-top: 10px;
+    color: gray;
+    font-style: italic;
+    font-size: 11px;
+    line-height: 17px
+}
+
+h2.subtitle {
+    font-size: 15px;
+    font-style: italic;
+    font-weight: 700
+}
+
+#wooslt_data {
+    padding: 0 10px
+}
+
+#wooslt_data .no_label {
+    padding-left: 0!important
+}
+
+#wooslt_data .form-field.inline span {
+    display: inline;
+    padding-left: 10px
+}
+
+#wooslt .column-order_actions {
+    width: 50px
+}
+
+.divi-engine_page_divi-mobile-menu .tf-radio-image img {
+    max-width: 270px
+}
+
+#divi-mobile-menu_mobile_menu_layout_burger_menudefault img,
+#divi-mobile-menu_mobile_menu_layout_burger_menustyle1 img,
+#divi-mobile-menu_mobile_menu_layout_burger_menustyle2 img,
+#divi-mobile-menu_mobile_menu_layout_burger_menustyle3 img,
+#divi-mobile-menu_mobile_menu_layout_burger_menustyle4 img {
+    max-width: 80px
+}
+
+#divi-mobile-menu_mobile_menu_layoutstyle1 img {
+    max-height: 250px
+}
+
+.et_pb_dm_stop_stacking::before {
+    background-repeat: no-repeat;
+    background-position: center;
+    content: ""!important;
+    width: 25px;
+    height: 25px;
+    margin: auto;
+    left: 10px!important;
+    background-image: url(../images/admin-area/modules/stop-stacking.svg)
+}
+
+.et_pb_dm_stop_stacking::after {
+    content: ""!important;
+    display: block!important;
+    width: 15px;
+    height: 20px;
+    background-image: url(../images/admin-area/modules/divi-engine-grey.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    position: absolute;
+    right: 7px;
+    top: 3px
+}
+
+#accordion-panel-divi-mobile-menu_divi-mobile .accordion-section-title {
+    background-color: #1d0d6f!important;
+    color: #0af2a5!important
+}
+
+#accordion-panel-divi-mobile-menu_divi-mobile:hover .accordion-section-title {
+    background-color: #0af2a5!important;
+    color: #1d0d6f!important;
+    font-weight: 700
+}
+
+#accordion-panel-divi-mobile-menu_divi-mobile .accordion-section-title:after {
+    color: #0af2a5!important
+}
+
+#accordion-panel-divi-mobile-menu_divi-mobile:hover .accordion-section-title:after {
+    color: #1d0d6f!important
+}
+
+.off-canvas #customize-control-divi-mobile-menu_bottom_nav_style,
+.off-canvas #customize-control-divi-mobile-menu_expand_shape_style {
+    display: none!important
+}
+
+.expand-shape #customize-control-divi-mobile-menu_bottom_nav_style,
+.expand-shape #customize-control-divi-mobile-menu_off_canvas_style {
+    display: none!important
+}
+
+.bottom-nav #customize-control-divi-mobile-menu_expand_shape_style,
+.bottom-nav #customize-control-divi-mobile-menu_off_canvas_style {
+    display: none!important
+}
+
+#accordion-section-divi-mobile-menu_circle-stretch-settings {
+    display: none!important
+}
+
+.circle-stretch #accordion-section-divi-mobile-menu_circle-stretch-settings {
+    display: list-item!important
+}
+
+#accordion-section-divi-mobile-menu_inject-layouts,
+#accordion-section-divi-mobile-menu_sub-menu-settings {
+    display: list-item!important
+}
+
+.circle-stretch #accordion-section-divi-mobile-menu_inject-layouts,
+.circle-stretch #accordion-section-divi-mobile-menu_sub-menu-settings {
+    display: none!important
+}
+
+.off-canvas.circle-stretch #accordion-section-divi-mobile-menu_inject-layouts,
+.off-canvas.circle-stretch #accordion-section-divi-mobile-menu_sub-menu-settings {
+    display: list-item!important
+}
+
+.elastic #customize-control-divi-mobile-menu_set_mobile_menu_side_appear,
+.elastic #customize-control-divi-mobile-menu_set_mobile_menu_side_max_width,
+.side-slide #customize-control-divi-mobile-menu_set_mobile_menu_side_appear,
+.side-slide #customize-control-divi-mobile-menu_set_mobile_menu_side_max_width,
+.top-side #customize-control-divi-mobile-menu_set_mobile_menu_side_appear,
+.top-side #customize-control-divi-mobile-menu_set_mobile_menu_side_max_width {
+    display: list-item!important
+}
+
+h3.tf-heading {
+    margin-top: 20px!important;
+    background-color: #0af2a5!important;
+    color: #1d0d6f!important
+}
+
+.editing-dm.dm-desktop #customize-preview iframe {
+    max-width: 100%
+}
+
+.editing-dm.dm-tablet #customize-preview iframe {
+    max-width: 767px;
+    margin: 20px 0;
+    -webkit-box-shadow: 0 0 30px -10px rgba(0, 0, 0, .75);
+    -moz-box-shadow: 0 0 30px -10px rgba(0, 0, 0, .75);
+    box-shadow: 0 0 30px -10px rgba(0, 0, 0, .75)
+}
+
+.editing-dm.dm-mobile #customize-preview iframe {
+    max-width: 375px;
+    margin: 20px 0;
+    -webkit-box-shadow: 0 0 30px -10px rgba(0, 0, 0, .75);
+    -moz-box-shadow: 0 0 30px -10px rgba(0, 0, 0, .75);
+    box-shadow: 0 0 30px -10px rgba(0, 0, 0, .75);
+    max-height: 700px;
+}
+
+#customize-preview {
+    text-align: center
+}
+
+#sub-accordion-section-divi-mobile-menu_menu-style-and-settings .tf-select,
+#sub-accordion-section-divi-mobile-menu_custom-header .tf-select,
+#sub-accordion-section-divi-mobile-menu_choose-burger-menu .tf-select,
+#sub-accordion-section-divi-mobile-menu_inject-layouts .tf-select,
+#sub-accordion-section-divi-mobile-menu_menu-appearance .tf-select,
+#sub-accordion-section-divi-mobile-menu_sub-menu-appearance .tf-select,
+#sub-accordion-section-divi-mobile-menu_circle-stretch-settings .tf-select,
+#sub-accordion-section-divi-mobile-menu_bottom-navigation-settings .tf-select,
+#sub-accordion-section-divi-mobile-menu_menu-style-and-settings .tf-select {
+    display: block;
+    opacity: 1;
+    visibility: visible;
+    width: 100% !important;
+    position: relative !important;
+    padding: 0 24px 0 8px !important;
+    overflow: visible !important;
+    clip-path: initial !important;
+    clip: initial !important;
+    -webkit-clip-path: inherit !important;
+    height: auto !important;
+    border: 1px solid #7e8993 !important;
+}
+
+#sub-accordion-section-divi-mobile-menu_menu-style-and-settings .select2-container,
+#sub-accordion-section-divi-mobile-menu_custom-header .select2-container,
+#sub-accordion-section-divi-mobile-menu_choose-burger-menu .select2-container,
+#sub-accordion-section-divi-mobile-menu_inject-layouts .select2-container,
+#sub-accordion-section-divi-mobile-menu_menu-appearance .select2-container,
+#sub-accordion-section-divi-mobile-menu_sub-menu-appearance .select2-container,
+#sub-accordion-section-divi-mobile-menu_circle-stretch-settings .select2-container,
+#sub-accordion-section-divi-mobile-menu_bottom-navigation-settings .select2-container,
+#sub-accordion-section-divi-mobile-menu_menu-style-and-settings .select2-container {
+display: none !important;
+}

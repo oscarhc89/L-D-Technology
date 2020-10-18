@@ -1,0 +1,50 @@
+// Divi MadMenu Changelog
+
+v1.2 (05.09.2020)
+
+-- New: Added new animations for the Mobile Menu dropdown - 20 animation choices available now both for opening and closing the mobile menu, with the possibility to control the animations duration.
+-- New: extended the existing animations options list of the Desktop Menu submenus from 5 to 19 animation options, and also added the animation duration setting. 
+
+
+v1.1.3 (31.08.2020)
+
+-- Fix: fixed the issue with clicking the mobile menu toggle(hamburger menu) when the module link url is added
+-- Fix(IMPORTANT): disabled the recently introduced Sticky options (Divi v4.6) due to functionality similarities with the Divi MadMenu's Fixed Header mechanism which causes multiple conflicts and creates confusion
+
+
+v1.1.2 (13.08.2020)
+
+-- Fix: fixed the mobile dropdown menu overflow issue making it impossible to set a max-height
+
+
+v1.1.1 (04.08.2020)
+
+-- Improvement: improved the mobile dropdown offset feature by adding the Mobile Menu Bottom Offset setting for setting the bottom offset of the dropdown menu expanding upwards
+-- Fix: fixed the Mobile Menu Top Offset feature conflict with the "auto" and "upwards" options of the Dropdown Direction setting
+-- Fix: fixed a hovering issue with desktop menu items
+
+
+v1.1 (03.08.2020)
+
+-- New: added the mobile menu and mobile submenu text alignment options
+-- Fix: fixed the Search and Cart elements' issue with the border not being added when the Solid border style selected
+-- Fix: fixed the mobile menu toggle label text font weight issue
+-- Fix: fixed the search input field placeholder color not being applied
+-- Fix: fixed the z-index issue of the mobile menu and the desktop submenu when both enabled on desktop
+
+
+v1.0 (27.07.2020)
+
+-- Initial release
+-- New: added the Mobile Menu Top Offset setting to control the mobile dropdown menu top offset
+-- Improvement: changed the way the elements' responsive visibility is handled
+-- Fix: fixed flexbox layout issue in IE 11
+-- Fix: fixed incorrect default values for some settings
+-- Fix: fixed the CSS priority issue with the main and submenu items
+-- Fix: fixed conditional visibility issues with some settings
+-- Fix: fixed descriptions of some settings
+
+
+v0.1 (06.07.2020)
+
+-- Beta-1 release

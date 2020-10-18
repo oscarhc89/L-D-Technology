@@ -1,0 +1,42 @@
+/** License key activation styles **/
+#ds_divi_switch_credit {
+    width: 320px;
+    text-align: center;
+}
+#ds_divi_switch_credit_logo_container {
+    margin-bottom: 20px;
+}
+#ds_divi_switch_credit_logo_container a {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+#ds_divi_switch_credit_logo_container img {
+    width: 100%;
+}
+#ds_divi_switch_credit_title {
+    font-size: 22px;
+    text-align: left;
+}
+#ds_icon_party_license_key_form_error {
+    color: #f00000;
+    text-align: left;
+    margin-top: 2px;
+    margin-left: 100px;
+}
+/** End license key activation styles **/
+
+/* Page logo upload metabox */
+.ds_page_logo_image_upload img {
+    max-width: 200px !important;
+    display: block;
+    margin: 5px;
+}
+
+.ds_page_logo_image_upload .components-button {
+    margin-top: 5px;
+}
+
+/* Mega Menu metabox */
+#ds_switch_mega_menu_items {
+    min-width: 100px;
+}

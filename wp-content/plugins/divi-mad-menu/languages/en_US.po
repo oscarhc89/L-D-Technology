@@ -1,0 +1,2891 @@
+# Copyright (C) 2020 Ivan Chiurcci(Chi)
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi MadMenu 1.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/divi-mad-menu\n"
+"POT-Creation-Date: 2020-09-05 11:57:07+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n1.0.2\n"
+
+#: admin/includes/admin.php:16
+msgid "You don't have sufficient permissions to access this page!"
+msgstr ""
+
+#: admin/includes/admin.php:44 admin/includes/admin.php:45
+#: includes/modules/MadMenu/MadMenu.php:31
+msgid "MadMenu"
+msgstr ""
+
+#: admin/includes/admin.php:118
+msgid "Settings"
+msgstr ""
+
+#: admin/includes/admin.php:182
+msgid "Save Changes"
+msgstr ""
+
+#: admin/includes/admin.php:201
+msgid ""
+"You are using the <b>Beta</b> version of the <b>Divi MadMenu</b>! It is "
+"<b>not recommended</b> to use the Beta version on your live site because it "
+"may still be unstable."
+msgstr ""
+
+#: includes/helper.php:1117 includes/helper.php:1126 includes/helper.php:1133
+#: includes/helper.php:1139 includes/helper.php:1888 includes/helper.php:1936
+msgid "Default"
+msgstr ""
+
+#: includes/helper.php:1118
+msgid "Top"
+msgstr ""
+
+#: includes/helper.php:1119 includes/helper.php:1128 includes/helper.php:1135
+#: includes/helper.php:1141 includes/modules/MadMenu/MadMenu.php:665
+msgid "Center"
+msgstr ""
+
+#: includes/helper.php:1120 includes/modules/MadMenu/MadMenu.php:650
+msgid "Bottom"
+msgstr ""
+
+#: includes/helper.php:1121 includes/helper.php:1130 includes/helper.php:1146
+msgid "Stretch"
+msgstr ""
+
+#: includes/helper.php:1127 includes/helper.php:1134 includes/helper.php:1140
+#: includes/modules/MadMenu/Button.php:274
+#: includes/modules/MadMenu/MadMenu.php:664
+#: includes/modules/MadMenu/MenuToggle.php:117
+msgid "Left"
+msgstr ""
+
+#: includes/helper.php:1129 includes/helper.php:1136 includes/helper.php:1142
+#: includes/modules/MadMenu/Button.php:272
+#: includes/modules/MadMenu/MadMenu.php:666
+#: includes/modules/MadMenu/MenuToggle.php:115
+msgid "Right"
+msgstr ""
+
+#: includes/helper.php:1143 includes/modules/MadMenu/MadMenu.php:667
+msgid "Space-between"
+msgstr ""
+
+#: includes/helper.php:1144 includes/modules/MadMenu/MadMenu.php:668
+msgid "Space-around"
+msgstr ""
+
+#: includes/helper.php:1145 includes/modules/MadMenu/MadMenu.php:669
+msgid "Space-evenly"
+msgstr ""
+
+#: includes/helper.php:1187
+msgid "%1$s Column Width"
+msgstr ""
+
+#: includes/helper.php:1188
+msgid ""
+"Adjust the width of the %1$s element column. To stretch the column apply "
+"the \"auto\" value."
+msgstr ""
+
+#: includes/helper.php:1214
+msgid "%1$s Column Max Width"
+msgstr ""
+
+#: includes/helper.php:1215
+msgid "Adjust the max width of the %1$s element column."
+msgstr ""
+
+#: includes/helper.php:1241
+msgid "%1$s Column Width (Fixed)"
+msgstr ""
+
+#: includes/helper.php:1242
+msgid ""
+"Adjust the width of the fixed header %1$s element column. To stretch the "
+"column apply the \"auto\" value."
+msgstr ""
+
+#: includes/helper.php:1269
+msgid "%1$s Column Max Width (Fixed)"
+msgstr ""
+
+#: includes/helper.php:1270
+msgid "Adjust the max width of the fixed header %1$s element column."
+msgstr ""
+
+#: includes/helper.php:1329
+msgid "%1$s Column Background Color"
+msgstr ""
+
+#: includes/helper.php:1330
+msgid "Set the %1$s element column background color."
+msgstr ""
+
+#: includes/helper.php:1346
+msgid "%1$s Column Background Color (Fixed)"
+msgstr ""
+
+#: includes/helper.php:1347
+msgid "Set the fixed header %1$s element column background color."
+msgstr ""
+
+#: includes/helper.php:1401
+msgid "%1$s Vertical Alignment"
+msgstr ""
+
+#: includes/helper.php:1402
+msgid "Align the %1$s vertically."
+msgstr ""
+
+#: includes/helper.php:1418
+msgid "%1$s Horizontal Alignment"
+msgstr ""
+
+#: includes/helper.php:1419
+msgid "Align the %1$s horizontally."
+msgstr ""
+
+#: includes/helper.php:1435
+msgid "%1$s Vertical Alignment (Fixed)"
+msgstr ""
+
+#: includes/helper.php:1436
+msgid "Align the fixed header %1$s vertically."
+msgstr ""
+
+#: includes/helper.php:1453
+msgid "%1$s Horizontal Alignment (Fixed)"
+msgstr ""
+
+#: includes/helper.php:1454
+msgid "Align the fixed header %1$s horizontally."
+msgstr ""
+
+#: includes/helper.php:1516 includes/helper.php:1533
+msgid ""
+"<p style=\"line-height: 1.2em; padding: 10px; border: 2px solid #ff9232; "
+"border-radius: 4px; color: #ff7700; background-color: #fffaf6;\">The %1$s "
+"element is DISABLED. <br /><br />To enable it go to Content->Elements and "
+"click the Enable %1$s.</p>"
+msgstr ""
+
+#: includes/helper.php:1629 includes/helper.php:1717
+msgid ""
+"<p style=\"line-height: 1.2em; padding: 10px; border: 2px solid #ff9232; "
+"border-radius: 4px; color: #ff7700; background-color: #fffaf6;\">The Fixed "
+"Header is DISABLED. <br /><br />To enable it go to Advanced->Position and "
+"click the Enable Fixed Header.</p>"
+msgstr ""
+
+#: includes/helper.php:1893
+msgid "Fade In"
+msgstr ""
+
+#: includes/helper.php:1894
+msgid "Fade In Left"
+msgstr ""
+
+#: includes/helper.php:1895
+msgid "Fade In Right"
+msgstr ""
+
+#: includes/helper.php:1896
+msgid "Fade In Top"
+msgstr ""
+
+#: includes/helper.php:1897
+msgid "Fade In Bottom"
+msgstr ""
+
+#: includes/helper.php:1898
+msgid "Fade In Left Big"
+msgstr ""
+
+#: includes/helper.php:1899
+msgid "Fade In Right Big"
+msgstr ""
+
+#: includes/helper.php:1900
+msgid "Fade In Top Big"
+msgstr ""
+
+#: includes/helper.php:1901
+msgid "Fade In Bottom Big"
+msgstr ""
+
+#: includes/helper.php:1902
+msgid "Flip In X"
+msgstr ""
+
+#: includes/helper.php:1903
+msgid "Flip In Y"
+msgstr ""
+
+#: includes/helper.php:1904
+msgid "Zoom In"
+msgstr ""
+
+#: includes/helper.php:1905
+msgid "Expand"
+msgstr ""
+
+#: includes/helper.php:1906
+msgid "Expand Top"
+msgstr ""
+
+#: includes/helper.php:1907
+msgid "Expand Bottom"
+msgstr ""
+
+#: includes/helper.php:1908
+msgid "Lightspeed In"
+msgstr ""
+
+#: includes/helper.php:1909
+msgid "Bounce In"
+msgstr ""
+
+#: includes/helper.php:1910
+msgid "Bounce In Up"
+msgstr ""
+
+#: includes/helper.php:1911
+msgid "Bounce In Down"
+msgstr ""
+
+#: includes/helper.php:1941
+msgid "Fade Out"
+msgstr ""
+
+#: includes/helper.php:1942
+msgid "Fade Out Left"
+msgstr ""
+
+#: includes/helper.php:1943
+msgid "Fade Out Right"
+msgstr ""
+
+#: includes/helper.php:1944
+msgid "Fade Out Top"
+msgstr ""
+
+#: includes/helper.php:1945
+msgid "Fade Out Bottom"
+msgstr ""
+
+#: includes/helper.php:1946
+msgid "Fade Out Left Big"
+msgstr ""
+
+#: includes/helper.php:1947
+msgid "Fade Out Right Big"
+msgstr ""
+
+#: includes/helper.php:1948
+msgid "Fade Out Top Big"
+msgstr ""
+
+#: includes/helper.php:1949
+msgid "Fade Out Bottom Big"
+msgstr ""
+
+#: includes/helper.php:1950
+msgid "Flip Out X"
+msgstr ""
+
+#: includes/helper.php:1951
+msgid "Flip Out Y"
+msgstr ""
+
+#: includes/helper.php:1952
+msgid "Zoom Out"
+msgstr ""
+
+#: includes/helper.php:1953
+msgid "Shrink"
+msgstr ""
+
+#: includes/helper.php:1954
+msgid "Shrink Top"
+msgstr ""
+
+#: includes/helper.php:1955
+msgid "Shrink Bottom"
+msgstr ""
+
+#: includes/helper.php:1956
+msgid "Lightspeed Out"
+msgstr ""
+
+#: includes/helper.php:1957
+msgid "Bounce Out"
+msgstr ""
+
+#: includes/helper.php:1958
+msgid "Bounce Out Up"
+msgstr ""
+
+#: includes/helper.php:1959
+msgid "Bounce Out Down"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:52
+msgid "Enable %1$s"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:53
+msgid "Add the button element to the header."
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:57
+#: includes/modules/MadMenu/Button.php:105
+#: includes/modules/MadMenu/Button.php:159
+#: includes/modules/MadMenu/Button.php:231
+#: includes/modules/MadMenu/Button.php:292 includes/modules/MadMenu/Cart.php:55
+#: includes/modules/MadMenu/Cart.php:78 includes/modules/MadMenu/Cart.php:153
+#: includes/modules/MadMenu/Logo.php:62 includes/modules/MadMenu/Logo.php:100
+#: includes/modules/MadMenu/MadMenu.php:527
+#: includes/modules/MadMenu/MadMenu.php:559
+#: includes/modules/MadMenu/MadMenu.php:626
+#: includes/modules/MadMenu/MenuWrapper.php:67
+#: includes/modules/MadMenu/MenuWrapper.php:86
+#: includes/modules/MadMenu/MobileMenu.php:90
+#: includes/modules/MadMenu/MobileMenu.php:107
+#: includes/modules/MadMenu/MobileMenu.php:124
+#: includes/modules/MadMenu/MobileMenuWrapper.php:67
+#: includes/modules/MadMenu/MobileMenuWrapper.php:86
+#: includes/modules/MadMenu/Search.php:55
+#: includes/modules/MadMenu/Search.php:78
+#: includes/modules/MadMenu/Search.php:155
+msgid "Yes"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:58
+#: includes/modules/MadMenu/Button.php:106
+#: includes/modules/MadMenu/Button.php:160
+#: includes/modules/MadMenu/Button.php:232
+#: includes/modules/MadMenu/Button.php:293 includes/modules/MadMenu/Cart.php:56
+#: includes/modules/MadMenu/Cart.php:79 includes/modules/MadMenu/Cart.php:154
+#: includes/modules/MadMenu/Logo.php:63 includes/modules/MadMenu/Logo.php:101
+#: includes/modules/MadMenu/MadMenu.php:528
+#: includes/modules/MadMenu/MadMenu.php:560
+#: includes/modules/MadMenu/MadMenu.php:627
+#: includes/modules/MadMenu/MenuWrapper.php:68
+#: includes/modules/MadMenu/MenuWrapper.php:87
+#: includes/modules/MadMenu/MobileMenu.php:91
+#: includes/modules/MadMenu/MobileMenu.php:108
+#: includes/modules/MadMenu/MobileMenu.php:125
+#: includes/modules/MadMenu/MobileMenuWrapper.php:68
+#: includes/modules/MadMenu/MobileMenuWrapper.php:87
+#: includes/modules/MadMenu/Search.php:56
+#: includes/modules/MadMenu/Search.php:79
+#: includes/modules/MadMenu/Search.php:156
+msgid "No"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:95
+msgid "Show %1$s"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:96
+msgid "Set the Button element responsive visibility."
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:113
+msgid "%1$s Order"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:114 includes/modules/MadMenu/Cart.php:87
+#: includes/modules/MadMenu/Logo.php:168
+#: includes/modules/MadMenu/MenuWrapper.php:114
+#: includes/modules/MadMenu/MobileMenuWrapper.php:95
+#: includes/modules/MadMenu/Search.php:87
+msgid ""
+"Here you can set the element order. Element order is set relatively to "
+"other enabled elements, a higher order number moves the element closer to "
+"the right hand side of the header."
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:136
+msgid "%1$s Text"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:137
+msgid "Input your desired button text."
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:151
+msgid "Enable %1$s Icon"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:152
+msgid "Enable the icon for the button."
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:167
+msgid "%1$s Icon Type"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:168
+msgid "Select a font icon or upload your own image icon for the button."
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:176
+msgid "Font Icon"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:177
+msgid "Image Icon"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:184
+msgid "%1$s Icon"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:185
+msgid "Select a font icon for the button."
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:201
+msgid "%1$s Image"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:202
+msgid "Upload an image icon for the button."
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:212
+#: includes/modules/MadMenu/Button.php:252
+#: includes/modules/MadMenu/Cart.php:135 includes/modules/MadMenu/Cart.php:173
+#: includes/modules/MadMenu/Logo.php:83 includes/modules/MadMenu/Logo.php:119
+#: includes/modules/MadMenu/Search.php:137
+#: includes/modules/MadMenu/Search.php:175
+msgid "Upload an image"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:213
+#: includes/modules/MadMenu/Button.php:253
+#: includes/modules/MadMenu/Cart.php:136 includes/modules/MadMenu/Cart.php:174
+#: includes/modules/MadMenu/Logo.php:84 includes/modules/MadMenu/Logo.php:120
+#: includes/modules/MadMenu/Search.php:138
+#: includes/modules/MadMenu/Search.php:176
+msgid "Choose an Image"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:214
+#: includes/modules/MadMenu/Button.php:254
+msgid "Set As Icon"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:220
+msgid "Use Fixed Header Image"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:221
+msgid "Use a different image icon for the fixed header button."
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:239
+msgid "%1$s Image (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:240
+msgid "Upload an image icon for the fixed header button."
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:260
+msgid "%1$s Icon Placement"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:261
+msgid ""
+"Choose where the button icon should be displayed within the button "
+"relatively to the button text."
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:271
+#: includes/modules/MadMenu/MenuToggle.php:114
+msgid "Above"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:273
+#: includes/modules/MadMenu/MenuToggle.php:116
+msgid "Below"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:281
+msgid "%1$s Icon Visibility"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:282
+msgid "Set the button icon visibility for each device."
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:300
+msgid "%1$s Link URL"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:301
+msgid "Input the destination URL for the button."
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:312
+msgid "%1$s Link Target"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:313
+msgid "Here you can choose whether or not the button link opens in a new window"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:320
+#: includes/modules/MadMenu/Logo.php:147
+msgid "In The Same Window"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:321
+#: includes/modules/MadMenu/Logo.php:148
+msgid "In The New Tab"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:328
+msgid "%1$s Relationship"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:329
+msgid ""
+"Specify the value of your link's <em>rel</em> attribute. The <em>rel</em> "
+"attribute specifies the relationship between the current document and the "
+"linked document.<br><strong>Tip:</strong> Search engines can use this "
+"attribute to get more information about a link."
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:347
+msgid "%1$s Image Alt Text"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:348
+msgid "Define the HTML ALT text for the button here."
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:361
+msgid "%1$s Margin"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:362
+#: includes/modules/MadMenu/Button.php:378
+#: includes/modules/MadMenu/Button.php:428
+#: includes/modules/MadMenu/Button.php:444
+#: includes/modules/MadMenu/Cart.php:182 includes/modules/MadMenu/Cart.php:198
+#: includes/modules/MadMenu/DesktopMenu.php:343
+#: includes/modules/MadMenu/DesktopMenu.php:375
+#: includes/modules/MadMenu/DesktopMenu.php:442
+#: includes/modules/MadMenu/DesktopMenu.php:474
+#: includes/modules/MadMenu/Logo.php:191 includes/modules/MadMenu/Logo.php:207
+#: includes/modules/MadMenu/MadMenu.php:677
+#: includes/modules/MadMenu/MenuToggle.php:235
+#: includes/modules/MadMenu/MenuToggle.php:251
+#: includes/modules/MadMenu/MenuToggle.php:301
+#: includes/modules/MadMenu/MenuToggle.php:320
+#: includes/modules/MadMenu/MobileMenu.php:805
+#: includes/modules/MadMenu/MobileMenu.php:821
+#: includes/modules/MadMenu/MobileMenu.php:871
+#: includes/modules/MadMenu/MobileMenu.php:887
+#: includes/modules/MadMenu/MobileMenu.php:937
+#: includes/modules/MadMenu/MobileMenu.php:953
+#: includes/modules/MadMenu/Search.php:184
+#: includes/modules/MadMenu/Search.php:200
+msgid ""
+"Margin adds extra space to the outside of the element, increasing the "
+"distance between the element and other items on the page."
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:377
+msgid "%1$s Margin (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:394
+msgid "%1$s Padding"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:395
+#: includes/modules/MadMenu/Button.php:411
+#: includes/modules/MadMenu/Cart.php:215 includes/modules/MadMenu/Cart.php:231
+#: includes/modules/MadMenu/DesktopMenu.php:359
+#: includes/modules/MadMenu/DesktopMenu.php:392
+#: includes/modules/MadMenu/DesktopMenu.php:409
+#: includes/modules/MadMenu/DesktopMenu.php:425
+#: includes/modules/MadMenu/DesktopMenu.php:458
+#: includes/modules/MadMenu/DesktopMenu.php:491
+#: includes/modules/MadMenu/Logo.php:224 includes/modules/MadMenu/Logo.php:240
+#: includes/modules/MadMenu/MadMenu.php:691
+#: includes/modules/MadMenu/MadMenu.php:705
+#: includes/modules/MadMenu/MenuToggle.php:268
+#: includes/modules/MadMenu/MenuToggle.php:284
+#: includes/modules/MadMenu/MobileMenu.php:653
+#: includes/modules/MadMenu/MobileMenu.php:669
+#: includes/modules/MadMenu/MobileMenu.php:772
+#: includes/modules/MadMenu/MobileMenu.php:788
+#: includes/modules/MadMenu/MobileMenu.php:838
+#: includes/modules/MadMenu/MobileMenu.php:854
+#: includes/modules/MadMenu/MobileMenu.php:904
+#: includes/modules/MadMenu/MobileMenu.php:920
+#: includes/modules/MadMenu/Search.php:217
+#: includes/modules/MadMenu/Search.php:233
+msgid ""
+"Padding adds extra space to the inside of the element, increasing the "
+"distance between the edge of the element and its inner contents."
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:410
+msgid "%1$s Padding (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:427
+msgid "%1$s Text Margin"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:443
+msgid "%1$s Text Margin (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:460
+msgid "%1$s Icon Size"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:461
+msgid "Here you can control the size of the button icon."
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:480
+msgid "%1$s Icon Size (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:481
+msgid "Here you can control the size of the fixed header button icon."
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:501
+msgid "%1$s Icon Color"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:502
+msgid "Set the button icon color."
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:519
+msgid "%1$s Icon Color (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:520
+msgid "Set the fixed header button icon color."
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:538
+msgid "%1$s Background Color"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:539
+msgid "Set the button background color."
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:554
+msgid "%1$s Background Color (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/Button.php:555
+msgid "Set the fixed header button background color."
+msgstr ""
+
+#: includes/modules/MadMenu/Cart.php:50
+msgid "Enable Cart"
+msgstr ""
+
+#: includes/modules/MadMenu/Cart.php:51
+msgid "Add the shopping cart element to the header."
+msgstr ""
+
+#: includes/modules/MadMenu/Cart.php:67
+msgid "Show Cart"
+msgstr ""
+
+#: includes/modules/MadMenu/Cart.php:68
+msgid "Set the Cart element responsive visibility."
+msgstr ""
+
+#: includes/modules/MadMenu/Cart.php:86
+msgid "Cart Order"
+msgstr ""
+
+#: includes/modules/MadMenu/Cart.php:109
+msgid "Cart Icon/Image"
+msgstr ""
+
+#: includes/modules/MadMenu/Cart.php:110
+msgid "Use either the default font icon or upload a custom image icon for the cart."
+msgstr ""
+
+#: includes/modules/MadMenu/Cart.php:117
+#: includes/modules/MadMenu/MenuToggle.php:58
+#: includes/modules/MadMenu/Search.php:119
+msgid "Icon"
+msgstr ""
+
+#: includes/modules/MadMenu/Cart.php:118
+#: includes/modules/MadMenu/Search.php:120
+msgid "Image"
+msgstr ""
+
+#: includes/modules/MadMenu/Cart.php:125
+msgid "Cart Image"
+msgstr ""
+
+#: includes/modules/MadMenu/Cart.php:126
+msgid "Upload an image to use as a cart icon."
+msgstr ""
+
+#: includes/modules/MadMenu/Cart.php:137 includes/modules/MadMenu/Cart.php:175
+msgid "Set As Cart Icon"
+msgstr ""
+
+#: includes/modules/MadMenu/Cart.php:143
+msgid "Use Fixed Header Cart Image"
+msgstr ""
+
+#: includes/modules/MadMenu/Cart.php:144
+#: includes/modules/MadMenu/Search.php:146
+msgid "Use a different image for the fixed header."
+msgstr ""
+
+#: includes/modules/MadMenu/Cart.php:161
+msgid "Cart Image (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/Cart.php:162
+msgid "Upload the fixed header cart image."
+msgstr ""
+
+#: includes/modules/MadMenu/Cart.php:181
+msgid "Cart Margin"
+msgstr ""
+
+#: includes/modules/MadMenu/Cart.php:197
+msgid "Cart Margin (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/Cart.php:214
+msgid "Cart Padding"
+msgstr ""
+
+#: includes/modules/MadMenu/Cart.php:230
+msgid "Cart Padding (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/Cart.php:247
+msgid "Cart Icon Size"
+msgstr ""
+
+#: includes/modules/MadMenu/Cart.php:248
+msgid "Here you can control the size of the cart icon."
+msgstr ""
+
+#: includes/modules/MadMenu/Cart.php:266
+msgid "Cart Icon Size (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/Cart.php:267
+msgid "Here you can control the size of the fixed header cart icon."
+msgstr ""
+
+#: includes/modules/MadMenu/Cart.php:286
+msgid "Cart Icon Color"
+msgstr ""
+
+#: includes/modules/MadMenu/Cart.php:287
+msgid "Set the cart icon color."
+msgstr ""
+
+#: includes/modules/MadMenu/Cart.php:303
+msgid "Cart Icon Color (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/Cart.php:304
+msgid "Set the fixed header cart icon color."
+msgstr ""
+
+#: includes/modules/MadMenu/Cart.php:321
+msgid "Cart Background Color"
+msgstr ""
+
+#: includes/modules/MadMenu/Cart.php:322
+msgid "Set the cart button background color."
+msgstr ""
+
+#: includes/modules/MadMenu/Cart.php:337
+msgid "Cart Background Color (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/Cart.php:338
+msgid "Set the fixed header cart button background color."
+msgstr ""
+
+#: includes/modules/MadMenu/Cart.php:467
+#: includes/modules/MadMenu/MadMenu.php:46
+#: includes/modules/MadMenu/MadMenu.php:291
+#: includes/modules/MadMenu/MadMenu.php:2124
+msgid "Cart"
+msgstr ""
+
+#: includes/modules/MadMenu/Cart.php:474
+#: includes/modules/MadMenu/MadMenu.php:295
+#: includes/modules/MadMenu/MadMenu.php:2148
+msgid "Cart (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:50
+msgid "Menu Breakpoint"
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:53
+msgid ""
+"Apply a different breakpoint for the desktop menu. The desktop menu will be "
+"visible on the screens having a width greater than the value set here.<br "
+"/>(The breakpoint feature has only partial VB support due to the way the "
+"viewport resizing is handled by the builder)"
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:68
+msgid "Submenu Animation"
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:69
+msgid ""
+"Set an animation to be used when submenus appear. Submenus appear when "
+"hovering over the links with sub items."
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:83
+msgid "Submenu Animation Duration"
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:84
+msgid "Set the desktop menu submenus opening animation duration."
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:107
+msgid "Active Link Color"
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:108
+#: includes/modules/MadMenu/MobileMenu.php:212
+msgid ""
+"Set the active link color. An active link is the page currently being "
+"visited. You can pick a color to be applied to active links to "
+"differentiate them from other links. The color will be applied to the "
+"active link's parent and ancestor links as well."
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:124
+msgid "Active Link Color (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:125
+#: includes/modules/MadMenu/MobileMenu.php:229
+msgid ""
+"Set the fixed header active link color. An active link is the page "
+"currently being visited. You can pick a color to be applied to active links "
+"to differentiate them from other links. The color will be applied to the "
+"active link's parent and ancestor links as well."
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:142
+msgid "Submenu Active Link Color"
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:143
+#: includes/modules/MadMenu/MobileMenu.php:247
+msgid ""
+"Set the submenu active link color. An active link is the page currently "
+"being visited. You can pick a color to be applied to active links to "
+"differentiate them from other links. The color will be applied to the "
+"active link's parent and ancestor links as well."
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:159
+msgid "Submenu Active Link Color (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:160
+#: includes/modules/MadMenu/MobileMenu.php:264
+msgid ""
+"Set the fixed header submenu active link color. An active link is the page "
+"currently being visited. You can pick a color to be applied to active links "
+"to differentiate them from other links. The color will be applied to the "
+"active link's parent and ancestor links as well."
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:177
+msgid "Item Background Color"
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:178
+msgid "Set the menu item background color."
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:193
+msgid "Item Background Color (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:194
+msgid "Set the fixed header menu item background color."
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:210
+msgid "Submenu Item Background Color"
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:211
+msgid "Set the submenu item background color."
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:226
+msgid "Submenu Item Background Color (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:227
+msgid "Set the fixed header submenu item background color."
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:243
+msgid "Active Item Background Color"
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:244
+msgid ""
+"Set the active item background color. An active item/link is the page "
+"currently being visited. You can pick a color to be applied to active items "
+"background to differentiate them from other items. The background color "
+"will be applied to the active item's parent and ancestor items as well."
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:259
+msgid "Active Item Background Color (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:260
+msgid ""
+"Set the fixed header active item background color. An active item/link is "
+"the page currently being visited. You can pick a color to be applied to "
+"active items background to differentiate them from other items. The "
+"background color will be applied to the active item's parent and ancestor "
+"items as well."
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:276
+msgid "Submenu Active Item Background Color"
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:277
+msgid ""
+"Set the submenu active item background color. An active item/link is the "
+"page currently being visited. You can pick a color to be applied to active "
+"items background to differentiate them from other items. The background "
+"color will be applied to the active item's parent and ancestor items as "
+"well."
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:292
+msgid "Submenu Active Item Background Color (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:293
+msgid ""
+"Set the fixed header submenu active item background color. An active "
+"item/link is the page currently being visited. You can pick a color to be "
+"applied to active items background to differentiate them from other items. "
+"The background color will be applied to the active item's parent and "
+"ancestor items as well."
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:309
+msgid "Submenu Background Color"
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:310
+msgid "Set the submenu background color."
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:325
+msgid "Submenu Background Color (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:326
+msgid "Set the fixed header submenu background color."
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:342
+msgid "Item Margin"
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:358
+msgid "Item Padding"
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:374
+msgid "Item Margin (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:391
+msgid "Item Padding (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:408
+msgid "Submenu Padding"
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:424
+msgid "Submenu Padding (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:441
+msgid "Submenu Item Margin"
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:457
+msgid "Submenu Item Padding"
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:473
+msgid "Submenu Item Margin (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/DesktopMenu.php:490
+msgid "Submenu Item Padding (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/Logo.php:57
+msgid "Enable Logo"
+msgstr ""
+
+#: includes/modules/MadMenu/Logo.php:58
+msgid "Add the logo element to the header."
+msgstr ""
+
+#: includes/modules/MadMenu/Logo.php:74 includes/modules/MadMenu/MadMenu.php:44
+#: includes/modules/MadMenu/MadMenu.php:275
+#: includes/modules/MadMenu/MadMenu.php:747
+#: includes/modules/MadMenu/MadMenu.php:1636
+msgid "Logo"
+msgstr ""
+
+#: includes/modules/MadMenu/Logo.php:75
+msgid "Upload an image to display beside your menu."
+msgstr ""
+
+#: includes/modules/MadMenu/Logo.php:85 includes/modules/MadMenu/Logo.php:121
+msgid "Set As Logo"
+msgstr ""
+
+#: includes/modules/MadMenu/Logo.php:91
+msgid "Use Fixed Header Logo"
+msgstr ""
+
+#: includes/modules/MadMenu/Logo.php:92
+msgid "Use a different logo for the fixed header."
+msgstr ""
+
+#: includes/modules/MadMenu/Logo.php:108
+#: includes/modules/MadMenu/MadMenu.php:279
+#: includes/modules/MadMenu/MadMenu.php:1660
+msgid "Logo (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/Logo.php:109
+msgid "Upload the fixed header logo image."
+msgstr ""
+
+#: includes/modules/MadMenu/Logo.php:127
+msgid "Logo Link URL"
+msgstr ""
+
+#: includes/modules/MadMenu/Logo.php:128
+msgid "If you would like to make your logo a link, input your destination URL here."
+msgstr ""
+
+#: includes/modules/MadMenu/Logo.php:139
+msgid "Logo Link Target"
+msgstr ""
+
+#: includes/modules/MadMenu/Logo.php:140
+msgid "Here you can choose whether or not your link opens in a new window"
+msgstr ""
+
+#: includes/modules/MadMenu/Logo.php:155
+msgid "Logo Alt Text"
+msgstr ""
+
+#: includes/modules/MadMenu/Logo.php:156
+msgid "Define the HTML ALT text for your logo here."
+msgstr ""
+
+#: includes/modules/MadMenu/Logo.php:167
+msgid "Logo Order"
+msgstr ""
+
+#: includes/modules/MadMenu/Logo.php:190
+msgid "Logo Margin"
+msgstr ""
+
+#: includes/modules/MadMenu/Logo.php:206
+msgid "Logo Margin (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/Logo.php:223
+msgid "Logo Padding"
+msgstr ""
+
+#: includes/modules/MadMenu/Logo.php:239
+msgid "Logo Padding (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/Logo.php:256
+msgid "Logo Background Color"
+msgstr ""
+
+#: includes/modules/MadMenu/Logo.php:257
+msgid "Set the logo background color."
+msgstr ""
+
+#: includes/modules/MadMenu/Logo.php:272
+msgid "Logo Background Color (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/Logo.php:273
+msgid "Set the fixed header logo background color."
+msgstr ""
+
+#: includes/modules/MadMenu/Logo.php:400
+msgid "Logo Image"
+msgstr ""
+
+#: includes/modules/MadMenu/Logo.php:407
+msgid "Logo Image (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:40
+msgid "Elements"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:41
+#: includes/modules/MadMenu/MadMenu.php:203
+#: includes/modules/MadMenu/MadMenu.php:567
+#: includes/modules/MadMenu/MadMenu.php:748
+msgid "Desktop Menu"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:42
+#: includes/modules/MadMenu/MadMenu.php:243
+#: includes/modules/MadMenu/MadMenu.php:590
+#: includes/modules/MadMenu/MadMenu.php:749
+#: includes/modules/MadMenu/MadMenu.php:1832
+msgid "Mobile Menu"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:43
+#: includes/modules/MadMenu/MadMenu.php:235
+#: includes/modules/MadMenu/MadMenu.php:2028
+msgid "Mobile Menu Toggle"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:45
+#: includes/modules/MadMenu/MadMenu.php:283
+#: includes/modules/MadMenu/MadMenu.php:2076
+msgid "Search"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:47
+#: includes/modules/MadMenu/MadMenu.php:299
+#: includes/modules/MadMenu/MadMenu.php:752
+#: includes/modules/MadMenu/MadMenu.php:2172
+#: includes/modules/MadMenu/MenuWrapper.php:569
+msgid "Button One"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:48
+#: includes/modules/MadMenu/MadMenu.php:307
+#: includes/modules/MadMenu/MadMenu.php:753
+#: includes/modules/MadMenu/MadMenu.php:2220
+#: includes/modules/MadMenu/MenuWrapper.php:637
+msgid "Button Two"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:50
+msgid "Builder Settings"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:58
+msgid "Layout: General"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:62
+msgid "Layout: Elements"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:67
+#: includes/modules/MadMenu/MadMenu.php:92
+msgid "M"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:70
+#: includes/modules/MadMenu/MadMenu.php:95
+msgid "L"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:73
+#: includes/modules/MadMenu/MadMenu.php:98
+msgid "S"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:76
+#: includes/modules/MadMenu/MadMenu.php:101
+msgid "C"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:79
+#: includes/modules/MadMenu/MadMenu.php:104
+msgid "B1"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:82
+#: includes/modules/MadMenu/MadMenu.php:107
+msgid "B2"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:87
+msgid "Layout: Elements (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:112
+msgid "Text: Desktop Menu"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:117
+#: includes/modules/MadMenu/MadMenu.php:130
+#: includes/modules/MadMenu/MadMenu.php:143
+#: includes/modules/MadMenu/MadMenu.php:156
+#: includes/modules/MadMenu/MadMenu.php:169
+#: includes/modules/MadMenu/MadMenu.php:182
+#: includes/modules/MadMenu/MadMenu.php:195
+#: includes/modules/MadMenu/MadMenu.php:320
+#: includes/modules/MadMenu/MadMenu.php:333
+msgid "Normal"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:120
+#: includes/modules/MadMenu/MadMenu.php:133
+#: includes/modules/MadMenu/MadMenu.php:146
+#: includes/modules/MadMenu/MadMenu.php:159
+#: includes/modules/MadMenu/MadMenu.php:172
+#: includes/modules/MadMenu/MadMenu.php:185
+#: includes/modules/MadMenu/MadMenu.php:198
+#: includes/modules/MadMenu/MadMenu.php:323
+#: includes/modules/MadMenu/MadMenu.php:336
+msgid "Fixed"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:125
+msgid "Text: Desktop Submenu"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:138
+msgid "Text: Mobile Menu Toggle"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:151
+msgid "Text: Mobile Menu"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:164
+msgid "Text: Mobile Submenu"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:177
+msgid "Text: Button One"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:190
+msgid "Text: Button Two"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:207
+msgid "Desktop Menu (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:211
+msgid "Desktop Menu Items"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:215
+msgid "Desktop Menu Items (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:219
+msgid "Desktop Submenu"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:223
+msgid "Desktop Submenu (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:227
+msgid "Desktop Submenu Items"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:231
+msgid "Desktop Submenu Items (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:239
+#: includes/modules/MadMenu/MadMenu.php:2052
+msgid "Mobile Menu Toggle (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:247
+#: includes/modules/MadMenu/MadMenu.php:1856
+msgid "Mobile Menu (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:251
+#: includes/modules/MadMenu/MenuWrapper.php:433
+msgid "Mobile Menu Items"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:255
+#: includes/modules/MadMenu/MenuWrapper.php:467
+msgid "Mobile Menu Items (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:259
+#: includes/modules/MadMenu/MadMenu.php:1930
+msgid "Mobile Submenu"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:263
+#: includes/modules/MadMenu/MadMenu.php:1954
+msgid "Mobile Submenu (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:267
+#: includes/modules/MadMenu/MenuWrapper.php:501
+msgid "Mobile Submenu Items"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:271
+#: includes/modules/MadMenu/MenuWrapper.php:535
+msgid "Mobile Submenu Items (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:287
+#: includes/modules/MadMenu/MadMenu.php:2100
+msgid "Search (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:303
+#: includes/modules/MadMenu/MadMenu.php:2196
+#: includes/modules/MadMenu/MenuWrapper.php:603
+msgid "Button One (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:311
+#: includes/modules/MadMenu/MadMenu.php:2244
+#: includes/modules/MadMenu/MenuWrapper.php:671
+msgid "Button Two (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:315
+msgid "Main: Sizing"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:328
+msgid "Main: Spacing"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:341
+msgid "Main: Border"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:345
+msgid "Main: Box Shadow"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:349
+msgid "Main: Filters"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:353
+msgid "Main: Transform"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:357
+msgid "Main: Animation"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:365
+msgid "Custom CSS (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:522
+msgid "Show Outlines"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:523
+msgid ""
+"Showing outlines helps to see & adjust the header layout structure. "
+"Outlines are shown in Visual Builder only and have no effect on Front End."
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:535
+msgid "Outlines Color"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:536
+msgid "Set the outlines color."
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:551
+msgid "Enable Fixed Header Mode"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:552
+msgid ""
+"Enable the fixed header mode manually without the need to scroll the page "
+"to trigger it. This setting works in Visual Builder only and has no effect "
+"on Front End."
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:571
+msgid "Select a menu that should be used as horizontal menu"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:572
+#: includes/modules/MadMenu/MadMenu.php:595
+msgid "Click here to create new menu"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:594
+msgid "Select a menu that should be used as mobile menu"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:621
+msgid "Enable Fixed Header"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:622
+msgid ""
+"Make the header fixed. Fixed header will always stay in the viewport while "
+"the page is being scrolled."
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:637
+msgid "Fixed Header Position"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:638
+msgid ""
+"Set the fixed header position for all devices or for each device "
+"individually."
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:647
+msgid "Not Fixed"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:648
+msgid "Top (Overlap Content)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:649
+msgid "Top (No Content Overlap)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:657
+msgid "Elements Alignment"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:658
+msgid ""
+"Change the elements horizontal alignment. This setting takes effect unless "
+"any element is \"stretched\" because it makes the elements occupy all the "
+"available space."
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:676
+msgid "Main Margin"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:690
+msgid "Main Padding"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:704
+msgid "Main Padding (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:721
+msgid "Background Color (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:722
+msgid "Set the fixed header background color."
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:737
+msgid "Hide Elements When Search Opens"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:738
+msgid "Select which elements to hide when the search form is opened."
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:750
+msgid "Search Icon"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:751
+msgid "Cart Icon"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:849
+msgid "Main Width"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:856
+msgid "Main Max Width"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:863
+msgid "Main Alignment"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:877
+msgid "Main Width (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:887
+msgid "Main Max Width (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:897
+msgid "Main Alignment (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:914
+msgid "Contents Width"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:921
+msgid "Contents Max Width"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:928
+msgid "Contents Alignment"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:942
+msgid "Contents Width (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:952
+msgid "Contents Max Width (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:962
+msgid "Contents Alignment (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:979
+msgid "Submenu Width"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:988
+msgid "Submenu Max Width"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1005
+msgid "Submenu Width (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1015
+msgid "Submenu Max Width (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1033
+msgid "Mobile Menu Width"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1042
+msgid "Mobile Menu Max Width"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1059
+msgid "Mobile Menu Width (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1069
+msgid "Mobile Menu Max Width (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1087
+msgid "Logo Width"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1096
+msgid "Logo Max Width"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1113
+msgid "Logo Width (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1123
+msgid "Logo Max Width (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1141
+#: includes/modules/MadMenu/MadMenu.php:1204
+msgid "Button One Image Width"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1153
+#: includes/modules/MadMenu/MadMenu.php:1216
+msgid "Button One Image Max Width"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1172
+msgid "Button One Image Width (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1184
+msgid "Button One Image Max Width (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1235
+msgid "Button Two Image Width (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1247
+msgid "Button Two Image Max Width (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1267
+msgid "Search Image Width"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1278
+msgid "Search Image Max Width"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1296
+msgid "Search Image Width (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1307
+msgid "Search Image Max Width (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1326
+msgid "Search Form Width"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1335
+msgid "Search Form Max Width"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1344
+msgid "Search Form Alignment"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1360
+msgid "Search Form Width (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1370
+msgid "Search Form Max Width (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1380
+msgid "Search Form Alignment (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1397
+msgid "Cart Image Width"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1408
+msgid "Cart Image Max Width"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1426
+msgid "Cart Image Width (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1437
+msgid "Cart Image Max Width (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1457
+msgid "Main Min Height"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1463
+msgid "Main Height"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1469
+msgid "Main Max Height"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1482
+msgid "Main Min Height (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1492
+msgid "Main Height (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1502
+msgid "Main Max Height (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1519
+msgid "Mobile Menu Min Height"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1528
+msgid "Mobile Menu Height"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1537
+msgid "Mobile Menu Max Height"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1553
+msgid "Mobile Menu Min Height (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1563
+msgid "Mobile Menu Height (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1573
+msgid "Mobile Menu Max Height (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1589
+msgid "Main"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1609
+msgid "Fixed Main"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1686
+msgid "Menu Item"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1711
+msgid "Menu Item (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1736
+msgid "Submenu Item"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1760
+msgid "Submenu Item (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1784
+msgid "Submenu"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1808
+msgid "Submenu (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1880
+msgid "Mobile Item"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1905
+msgid "Mobile Item (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:1978
+msgid "Mobile Submenu Item"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:2003
+msgid "Mobile Submenu Item (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:2271
+msgid "Main Box Shadow"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:2281
+msgid "Fixed Main Box Shadow"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:2294
+msgid "Submenu Box Shadow"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:2307
+msgid "Submenu Box Shadow (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:2321
+msgid "Menu Toggle Box Shadow"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:2334
+msgid "Menu Toggle Box Shadow (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:2348
+msgid "Mobile Menu Box Shadow"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:2361
+msgid "Mobile Menu Box Shadow (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:2375
+msgid "Mobile Item Box Shadow"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:2388
+msgid "Mobile Item Box Shadow (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:2402
+msgid "Mobile Submenu Box Shadow"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:2415
+msgid "Mobile Submenu Box Shadow (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:2429
+msgid "Mobile Submenu Item Box Shadow"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:2442
+msgid "Mobile Submenu Item Box Shadow (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:2456
+msgid "Item Box Shadow"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:2469
+msgid "Item Box Shadow (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:2483
+msgid "Submenu Item Box Shadow"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:2496
+msgid "Submenu Item Box Shadow (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:2510
+msgid "Logo Box Shadow"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:2523
+msgid "Logo (Fixed) Box Shadow"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:2537
+msgid "Search Box Shadow"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:2550
+msgid "Search (Fixed) Box Shadow"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:2564
+msgid "Cart Box Shadow"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:2577
+msgid "Cart (Fixed) Box Shadow"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:2591
+msgid "Button One Box Shadow"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:2604
+msgid "Button One (Fixed) Box Shadow"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:2618
+msgid "Button Two Box Shadow"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:2631
+msgid "Button Two (Fixed) Box Shadow"
+msgstr ""
+
+#: includes/modules/MadMenu/MadMenu.php:2763
+msgid "Home"
+msgstr ""
+
+#: includes/modules/MadMenu/MenuToggle.php:50
+msgid "Toggle Format"
+msgstr ""
+
+#: includes/modules/MadMenu/MenuToggle.php:51
+msgid "Select the mobile menu toggle format."
+msgstr ""
+
+#: includes/modules/MadMenu/MenuToggle.php:59
+msgid "Label"
+msgstr ""
+
+#: includes/modules/MadMenu/MenuToggle.php:60
+msgid "Icon and Label"
+msgstr ""
+
+#: includes/modules/MadMenu/MenuToggle.php:67
+msgid "Toggle Label (Closed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MenuToggle.php:68
+msgid ""
+"Input the text you would like to appear next to the closed mobile menu "
+"toggle icon."
+msgstr ""
+
+#: includes/modules/MadMenu/MenuToggle.php:79
+msgid "Menu"
+msgstr ""
+
+#: includes/modules/MadMenu/MenuToggle.php:85
+msgid "Toggle Label (Opened)"
+msgstr ""
+
+#: includes/modules/MadMenu/MenuToggle.php:86
+msgid ""
+"Input the text you would like to appear next to the open mobile menu toggle "
+"icon."
+msgstr ""
+
+#: includes/modules/MadMenu/MenuToggle.php:97
+msgid "Close"
+msgstr ""
+
+#: includes/modules/MadMenu/MenuToggle.php:103
+msgid "Toggle Label Position"
+msgstr ""
+
+#: includes/modules/MadMenu/MenuToggle.php:104
+msgid ""
+"Here you can change the toggle label position relative to the toggle icon "
+"(hamburger icon)."
+msgstr ""
+
+#: includes/modules/MadMenu/MenuToggle.php:125
+msgid "Menu Toggle Icon Size"
+msgstr ""
+
+#: includes/modules/MadMenu/MenuToggle.php:126
+msgid "Set the mobile menu toggle icon size."
+msgstr ""
+
+#: includes/modules/MadMenu/MenuToggle.php:146
+msgid "Menu Toggle Icon Size (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MenuToggle.php:147
+msgid "Set the fixed header mobile menu toggle icon size."
+msgstr ""
+
+#: includes/modules/MadMenu/MenuToggle.php:168
+msgid "Menu Toggle Icon Color"
+msgstr ""
+
+#: includes/modules/MadMenu/MenuToggle.php:169
+msgid "Set the mobile menu toggle icon color (the hamburger icon color)."
+msgstr ""
+
+#: includes/modules/MadMenu/MenuToggle.php:184
+msgid "Menu Toggle Icon Color (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MenuToggle.php:185
+msgid ""
+"Set the fixed header mobile menu toggle icon color (the hamburger icon "
+"color)."
+msgstr ""
+
+#: includes/modules/MadMenu/MenuToggle.php:201
+msgid "Menu Toggle Background Color"
+msgstr ""
+
+#: includes/modules/MadMenu/MenuToggle.php:202
+msgid "Set the mobile menu toggle background color."
+msgstr ""
+
+#: includes/modules/MadMenu/MenuToggle.php:217
+msgid "Menu Toggle Background Color (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MenuToggle.php:218
+msgid "Set the fixed header mobile menu toggle background color."
+msgstr ""
+
+#: includes/modules/MadMenu/MenuToggle.php:234
+msgid "Menu Toggle Margin"
+msgstr ""
+
+#: includes/modules/MadMenu/MenuToggle.php:250
+msgid "Menu Toggle Margin (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MenuToggle.php:267
+msgid "Menu Toggle Padding"
+msgstr ""
+
+#: includes/modules/MadMenu/MenuToggle.php:283
+msgid "Menu Toggle Padding (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MenuToggle.php:300
+msgid "Menu Toggle Text Margin"
+msgstr ""
+
+#: includes/modules/MadMenu/MenuToggle.php:319
+msgid "Menu Toggle Text Margin (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MenuToggle.php:400
+#: includes/modules/MadMenu/MenuWrapper.php:367
+msgid "Menu Toggle Label"
+msgstr ""
+
+#: includes/modules/MadMenu/MenuToggle.php:410
+#: includes/modules/MadMenu/MenuWrapper.php:400
+msgid "Menu Toggle Label (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MenuToggle.php:421
+msgid "Menu Toggle Icon"
+msgstr ""
+
+#: includes/modules/MadMenu/MenuToggle.php:431
+msgid "Menu Toggle Icon (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MenuWrapper.php:62
+msgid "Enable Desktop Menu"
+msgstr ""
+
+#: includes/modules/MadMenu/MenuWrapper.php:63
+msgid "Add the Desktop Menu element to the header."
+msgstr ""
+
+#: includes/modules/MadMenu/MenuWrapper.php:76
+msgid "Show Desktop Menu"
+msgstr ""
+
+#: includes/modules/MadMenu/MenuWrapper.php:77
+msgid "Set the Desktop Menu element responsive visibility."
+msgstr ""
+
+#: includes/modules/MadMenu/MenuWrapper.php:94
+msgid "Dropdown Direction"
+msgstr ""
+
+#: includes/modules/MadMenu/MenuWrapper.php:95
+msgid ""
+"Here you can choose the direction that your submenus will open(downwards or "
+"upwards)."
+msgstr ""
+
+#: includes/modules/MadMenu/MenuWrapper.php:103
+msgid "Downwards"
+msgstr ""
+
+#: includes/modules/MadMenu/MenuWrapper.php:104
+msgid "Upwards"
+msgstr ""
+
+#: includes/modules/MadMenu/MenuWrapper.php:105
+msgid "Auto"
+msgstr ""
+
+#: includes/modules/MadMenu/MenuWrapper.php:113
+msgid "Desktop Menu Order"
+msgstr ""
+
+#: includes/modules/MadMenu/MenuWrapper.php:219
+msgid "Menu Items"
+msgstr ""
+
+#: includes/modules/MadMenu/MenuWrapper.php:259
+msgid "Menu Items (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MenuWrapper.php:297
+msgid "Submenu Items"
+msgstr ""
+
+#: includes/modules/MadMenu/MenuWrapper.php:334
+msgid "Submenu Items (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:64
+msgid "Mobile Menu Breakpoint"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:67
+msgid ""
+"Apply a different breakpoint for the mobile menu. The mobile menu will be "
+"visible on the screens having a width equal to and less than the value set "
+"here.<br />(The breakpoint feature has only partial VB support due to the "
+"way the viewport resizing is handled by the builder)"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:82
+msgid "Collapse Submenus"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:83
+msgid "Collapse mobile menu submenus"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:98
+msgid "Parent Links Clickable"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:99
+msgid "Make the parent item links clickable"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:115
+msgid "Accordion Mode"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:116
+msgid ""
+"Allow only one open submenu at a time. If enabled, expanding a submenu will "
+"collapse all other opened submenus of the same level"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:132
+msgid "Opening Animation"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:133
+msgid "Select the mobile menu opening animation."
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:147
+msgid "Opening Animation Duration"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:148
+msgid "Set the mobile menu opening animation duration."
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:171
+msgid "Closing Animation"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:172
+msgid "Select the mobile menu closing animation."
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:186
+msgid "Closing Animation Duration"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:187
+msgid "Set the mobile menu closing animation duration."
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:211
+msgid "Mobile Active Link Color"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:228
+msgid "Mobile Active Link Color (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:246
+msgid "Mobile Submenu Active Link Color"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:263
+msgid "Mobile Submenu Active Link Color (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:281
+msgid "Mobile Menu Background Color"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:282
+msgid "Set the mobile menu background color."
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:297
+msgid "Mobile Menu Background Color (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:298
+msgid "Set the fixed header mobile menu background color."
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:314
+msgid "Mobile Submenu Background Color"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:315
+msgid "Set the mobile submenu background color."
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:330
+msgid "Mobile Submenu Background Color (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:331
+msgid "Set the fixed header mobile submenu background color."
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:347
+msgid "Mobile Item Background Color"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:348
+msgid "Set the mobile menu item background color."
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:363
+msgid "Mobile Item Background Color (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:364
+msgid "Set the fixed header mobile menu item background color."
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:380
+msgid "Mobile Submenu Item Background Color"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:381
+msgid "Set the mobile submenu item background color."
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:396
+msgid "Mobile Submenu Item Background Color (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:397
+msgid "Set the fixed header mobile submenu item background color."
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:413
+msgid "Mobile Parent Item Bg Color"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:414
+msgid "Set the mobile menu parent item background color."
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:429
+msgid "Mobile Parent Item Bg Color (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:430
+msgid "Set the fixed header mobile menu parent item background color."
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:446
+msgid "Mobile Active Item Background Color"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:447
+msgid ""
+"Set the mobile menu active item background color. An active item/link is "
+"the page currently being visited. You can pick a color to be applied to "
+"active items background to differentiate them from other items. The "
+"background color will be applied to the active item's parent and ancestor "
+"items as well."
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:462
+msgid "Mobile Active Item Background Color (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:463
+msgid ""
+"Set the fixed header mobile menu active item background color. An active "
+"item/link is the page currently being visited. You can pick a color to be "
+"applied to active items background to differentiate them from other items. "
+"The background color will be applied to the active item's parent and "
+"ancestor items as well."
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:479
+msgid "Mobile Submenu Active Item Background Color"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:480
+msgid ""
+"Set the mobile menu submenu active item background color. An active "
+"item/link is the page currently being visited. You can pick a color to be "
+"applied to active items background to differentiate them from other items. "
+"The background color will be applied to the active item's parent and "
+"ancestor items as well."
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:495
+msgid "Mobile Submenu Active Item Background Color (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:496
+msgid ""
+"Set the fixed header mobile menu submenu active item background color. An "
+"active item/link is the page currently being visited. You can pick a color "
+"to be applied to active items background to differentiate them from other "
+"items. The background color will be applied to the active item's parent and "
+"ancestor items as well."
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:512
+msgid "Mobile Parent Arrow Color"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:513
+msgid "Set the mobile menu parent item arrow color."
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:528
+msgid "Mobile Parent Arrow Color (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:529
+msgid "Set the fixed header mobile menu parent item arrow color."
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:545
+msgid "Mobile Parent Arrow Bg Color"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:546
+msgid "Set the mobile menu parent item arrow background color."
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:561
+msgid "Mobile Parent Arrow Bg Color (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:562
+msgid "Set the fixed header mobile menu parent item arrow background color."
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:578
+msgid "Mobile Parent Arrow Size"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:579
+msgid "Set the mobile menu parent item arrow size."
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:596
+msgid "Mobile Parent Arrow Size (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:597
+msgid "Set the fixed header mobile menu parent item arrow size."
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:615
+msgid "Mobile Submenu Parent Arrow Size"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:616
+msgid "Set the mobile submenu parent item arrow size."
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:633
+msgid "Mobile Submenu Parent Arrow Size (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:634
+msgid "Set the fixed header mobile submenu parent item arrow size."
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:652
+msgid "Mobile Menu Padding"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:668
+msgid "Mobile Menu Padding (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:685
+msgid "Mobile Menu Top Offset"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:686
+msgid ""
+"Set the mobile dropdown menu top offset (for the dropdown menu expanding "
+"downwards)."
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:706
+msgid "Mobile Menu Top Offset (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:707
+msgid ""
+"Set the fixed header mobile dropdown menu top offset (for the dropdown menu "
+"expanding downwards)."
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:728
+msgid "Mobile Menu Bottom Offset"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:729
+msgid ""
+"Set the mobile dropdown menu bottom offset (for the dropdown menu expanding "
+"upwards)."
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:749
+msgid "Mobile Menu Bottom Offset (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:750
+msgid ""
+"Set the fixed header mobile dropdown menu bottom offset (for the dropdown "
+"menu expanding upwards)."
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:771
+msgid "Mobile Item Padding"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:787
+msgid "Mobile Item Padding (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:804
+msgid "Mobile Item Margin"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:820
+msgid "Mobile Item Margin (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:837
+msgid "Mobile Submenu Item Padding"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:853
+msgid "Mobile Submenu Item Padding (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:870
+msgid "Mobile Submenu Item Margin"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:886
+msgid "Mobile Submenu Item Margin (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:903
+msgid "Mobile Submenu Padding"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:919
+msgid "Mobile Submenu Padding (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:936
+msgid "Mobile Submenu Margin"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenu.php:952
+msgid "Mobile Submenu Margin (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenuWrapper.php:62
+msgid "Enable Mobile Menu"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenuWrapper.php:63
+msgid "Add the Mobile Menu element to the header."
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenuWrapper.php:76
+msgid "Show Mobile Menu"
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenuWrapper.php:77
+msgid "Set the Mobile Menu element responsive visibility."
+msgstr ""
+
+#: includes/modules/MadMenu/MobileMenuWrapper.php:94
+msgid "Mobile Menu Order"
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:50
+msgid "Enable Search"
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:51
+msgid "Add the search element to the header."
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:67
+msgid "Show Search"
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:68
+msgid "Set the Search element responsive visibility."
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:86
+msgid "Search Order"
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:109
+msgid "Search Icon/Image"
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:110
+msgid ""
+"Use either the default font icon or upload a custom image icon for the "
+"search."
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:127
+msgid "Search Image"
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:128
+msgid "Upload an image to use as a search icon."
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:139
+#: includes/modules/MadMenu/Search.php:177
+msgid "Set As Search Icon"
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:145
+msgid "Use Fixed Header Search Image"
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:163
+msgid "Search Image (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:164
+msgid "Upload the fixed header search image."
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:183
+msgid "Search Margin"
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:199
+msgid "Search Margin (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:216
+msgid "Search Padding"
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:232
+msgid "Search Padding (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:249
+msgid "Search Icon Size"
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:250
+msgid "Here you can control the size of the search icon."
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:268
+msgid "Search Icon Size (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:269
+msgid "Here you can control the size of the fixed header search icon."
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:288
+msgid "Search Icon Color"
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:289
+msgid "Set the search icon color."
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:305
+msgid "Search Icon Color (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:306
+msgid "Set the fixed header search icon color."
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:323
+msgid "Search Background Color"
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:324
+msgid "Set the search button background color."
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:339
+msgid "Search Background Color (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:340
+msgid "Set the fixed header search button background color."
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:356
+msgid "Search Form Background Color"
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:357
+msgid "Set the search form background color."
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:372
+msgid "Search Form Background Color (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:373
+msgid "Set the fixed header search form background color."
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:389
+msgid "Search X Icon Size"
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:390
+msgid "Here you can control the size of the search close icon."
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:407
+msgid "Search X Icon Size (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:408
+msgid "Here you can control the size of the fixed header search close icon."
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:426
+msgid "Search X Icon Color"
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:427
+msgid "Set the search close icon color."
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:442
+msgid "Search X Icon Color (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:443
+msgid "Set the fixed header search close icon color."
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:459
+msgid "Search Text Size"
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:460
+msgid "Here you can control the font size of the search text."
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:477
+msgid "Search Text Size (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:478
+msgid "Here you can control the font size of the fixed header search text."
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:496
+msgid "Search Text Color"
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:497
+msgid "Set the search input field text color."
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:512
+msgid "Search Text Color (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:513
+msgid "Set the fixed header search input field text color."
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:529
+msgid "Search Field Background Color"
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:530
+msgid "Set the search input field background color."
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:545
+msgid "Search Field Background Color (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:546
+msgid "Set the fixed header search input field background color."
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:676
+msgid "Search Field"
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:683
+msgid "Search Field (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:691
+msgid "Search X Icon"
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:698
+msgid "Search X Icon (Fixed)"
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:1161
+msgid "Search &hellip;"
+msgstr ""
+
+#: includes/modules/MadMenu/Search.php:1162
+msgid "Search for:"
+msgstr ""
+
+#: updater/licensing.php:100 updater/licensing.php:148
+#: updater/licensing.php:210
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: updater/licensing.php:114
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: updater/licensing.php:122
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: updater/licensing.php:127
+msgid "Invalid license."
+msgstr ""
+
+#: updater/licensing.php:133
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: updater/licensing.php:138
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: updater/licensing.php:143
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: updater/licensing.php:318
+msgid "License Key"
+msgstr ""
+
+#: updater/licensing.php:326 updater/licensing.php:334
+msgid "Activate License"
+msgstr ""
+
+#: updater/licensing.php:329
+msgid "Active"
+msgstr ""
+
+#: updater/licensing.php:331
+msgid "Deactivate License"
+msgstr ""
+
+#: updater/plugin-updater.php:262
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: updater/plugin-updater.php:270
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+
+#: updater/plugin-updater.php:514
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: updater/plugin-updater.php:514
+msgid "Error"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Divi MadMenu"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://divicio.us"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"The most advanced Divi menu module for creating headers using Divi Theme "
+"Builder."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Ivan Chiurcci(Chi)"
+msgstr ""
+
+#: admin/includes/admin.php:138
+msgctxt "plugin updates"
+msgid "Updates"
+msgstr ""

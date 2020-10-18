@@ -1,0 +1,154 @@
+/* CHANGELOG */
+* VERSION 1.2.9.2 - 26/08/2020
+* COMPATIBILITY - WordPress 5.5
+* FIX - Custom button CSS not working
+* FIX - collapse not working great when child page is active
+* FIX - Conflict CSS with Divi CPT CSS 
+* FIX - stop scrolling horizontal on mobile
+*
+* VERSION 1.2.9.1 - 02/08/2020
+* MOD - Changed the way we deliver the CSS to make the button work on the normal inject sylte. 
+* MOD - Removed the setting "alternative inject style"
+* FIX - Fixed php warnings
+* FIX - Padding on right when open
+* FIX - Custom button CSS not working
+*
+* VERSION 1.2.9 - 17/06/2020
+* NEW ADDTION / COMPATIBILITY - Added the ability to use it alongside the theme builder header. Enable it in our settings "Mobile Header Style" and then add the shortcode [divi_mobile_tb_menu] to your theme builder header
+* FIX - When opening the menu on desktop, the page would slide due to the hiding of the scroll bar.
+*
+* VERSION 1.2.8.1
+* FIX - some plugins would cause our select drop downs from not working - we have stopped them from changing our select to select2
+*
+* VERSION 1.2.8 - 03/06/2020
+* MOD - hide search box when scroll and header is not fixed
+* MOD - Added option to control the distance form the top for the search and cart icons
+* FIX - when scrolling down on mobile with thumb, it would open the sub-menu
+*
+* VERSION 1.2.7.2.1
+* FIX - illegal string error
+*
+* VERSION 1.2.7.2 - 21/05/2020
+* MOD - Added another option in inject layouts - Alternative Menu Inject Style - this will fix some issues with people having styling of buttons in the injected layouts - enable this
+*
+* VERSION 1.2.7.1 - 11/05/2020
+* FIX - warning php errors
+* FIX - hide main header only if using the custom header
+*
+* VERSION 1.2.7 - 01/05/2020
+* MOD - Added code to show the submenu active colour and when using the collapse menu, it will keep it open when you reload the page and on a sub menu page
+* MOD - Changed our code to fix some issues like header scrolling behing on IOS
+* MOD - Changed our CSS to hide the search bar from start so it does not slide up
+*
+* VERSION 1.2.6 - 30/04/2020
+* MOD - Changed the CSS to fix the overflow issue on IOS and elements not being able to be clicked
+* FIX - Logo issue of png being distorted
+* FIX - CSS conflicting with desktop dropdown background and border
+* FIX - When open the page scrolls down
+*
+* VERSION 1.2.5 - 21/04/2020
+* MOD - Added new setting to set the max-width of your logo, this will fix it looking strange/stretched
+* MOD - Added code to add padding at the bottom if you have a bottom nav menu, so it does not overlap the footer.
+* FIX - Fixed issue where header would be affected on desktop
+* FIX - Menu and sub-menu text font styling is not working - we have fixed this.
+* FIX - Fixed issue where custom header would add space if custom header is transparent
+*
+* VERSION 1.2.4 - 17/04/2020
+* MOD - moved the custom header inside the main div to be more compatible
+* FIX - SVG image for logo in custom header not showing
+* FIX - Our css affecting the desktop
+*
+* VERSION 1.2.3.1 - 15/04/2020
+* FIX - padding 0 for desktop when using the custom header
+*
+* VERSION 1.2.3 - 15/04/2020
+* NEW ADDITION - Added ability to add the bottom nav menu at the same time as other menu styles
+* NEW ADDITION - Added our mobile menu icon style - two Lines
+* NEW ADDITION - Added our mobile menu icon style - three dots
+* MOD - Added width to the search custom header so it does not overlap the cart icon > You might need to adjust your search icon location after this update
+* MOD - Added padding: 0 to the burger icon as IOS was causing issues. You might need to reposition your icon in your burger menu.
+* MOD - Added ability to customise the active menu link color
+* FIX - Fixed issue with custom header from Divi and ours space at the top
+* FIX - Smooth Scrolling of the menu items
+* FIX - Fixed on scroll (set to no) was not affecting the burger icon
+*
+* VERSION 1.2.2 - 23/03/2020
+* NEW ADDITION - ability to inject a layout above your custom header
+* FIX - favicon not showing
+*
+* VERSION 1.2.1 - 13/03/2020
+* MOD - Added option to customise color and font size of the close icon for search
+* MOD - Changed location of the header html so it is in the head again as it was causing issues
+* MOD - added ability to close the menu using an anchor point - add the class "anchorpoint" to the menu item to close it when clickiong
+* FIX - Moved classie js position on page
+* FIX - Removed scrollbar on header
+*
+* VERSION 1.2 - 10/03/2020
+* MOD - Changed location of the header html so it is in the body
+* MOD - Close menu when clicking on link for anchor link websites
+* FIX - Favicon not working
+* FIX - Fixed circle expand from right not working
+* FIX - Fixed issue where you close the menu and the sub-menu is open, you can still click it
+*
+* VERSION 1.1.9 - 18/02/2020
+* MOD - Added CSS to make burger icon behind slide in mini cart from BodyCommerce. You need to update BodyCommerce to version 4.5.9
+* FIX - Fixed issue with css of custom header logo
+* FIX - Fixed white space below header
+* FIX - Search on desktop not working
+*
+* VERSION 1.1.8 - 14/02/2020
+* FIX - Fixed logo height issue on scrolling
+* FIX - Fixed scroll - double scroll bars
+* FIX - circle expand from shape style, background would go transparent on scroll
+*
+* VERSION 1.1.7 - 11/02/20
+* NEW ADDITION - Add option to upload logo if one does not show with the custom header.
+* NEW ADDITION - Added option to change postion of the burger menu on scroll for the custom header
+* MOD - Created new tab for custom header and moved all the settings there - it is better to have it separate
+* MOD - added css to make it scroll in menu if too many items
+* MOD - Added css to stop page scrolling when menu is open
+* MOD - Changed it so that you can search now by clicking the search icon on mobile
+* FIX - Fixed bug with safari not showing the menu properly
+*
+* VERSION 1.1.6 - 20/01/2020
+* FIX - Fixed issue with button style not working
+*
+* VERSION 1.1.5 - 09/01/2020
+* MOD - Added ability to add shadow on custom header
+* MOD - Added ability to click through to parent - click twice for this to happen
+* MOD - Changed the JS to make the collapse menus auto close if you open another one
+* FIX - MENU TEXT PADDING TOP/BOTTOM CSS was not working
+* FIX - Search on mobile would not close
+* FIX - Search inside menu CSS
+*
+* VERSION 1.1.4 - 03/12/19
+* MOD - Added ability to customise the font family, colour, size, weight, shadow, line height and letter spacing
+* MOD - Changed CSS breakpoint to cater for custom headers
+*
+* VERSION 1.1.3
+* FIX - Minor CSS fixes
+*
+* VERSION 1.1.2
+* FIX - Update check on multisite not checking properly
+*
+* VERSION 1.1.1 - 24/10/19
+* MOD - Added ability to choose fixed or not fixed menus
+* FIX - CSS not moving burger menu with the fullscreen and circle expand menus
+* FIX - Removed Select2 js in admin as was causing conflict
+* FIX - Sub Sub Sub menu will show fine with collape and overlay sub menus.
+*
+* VERSION 1.1 - 08/10/19
+* NEW ADDITION - Added a new menu style, Bottom Navigation and one style which is the simple bottom navigation.
+* MOD - Ability to choose the menu you want shown - This setting is in: Menu Style and Settings > SELECT MENU.
+*
+* VERSION 1.0.1 - 30/08/19
+* LAUNCH *
+* MOD - Added live preview for as many options as I can in the customizer
+* MOD - Changed it so that you can align text in the menu and sub-menu
+* FIX - Burger menu slider was dropping down
+* FIX - Breakpoint working correctly if below 980px
+* FIX - Logo was going fullwidth when control header
+* FIX - "Fixed menu on scroll?" menu was not working well..
+*
+* 1.0 - 16/08/19
+* Launch beta version

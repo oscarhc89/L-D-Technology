@@ -1,0 +1,52 @@
+------
+Arguments:
+woo_sl_action activate
+licence_key dm-unli-4c4fdeeb-0e384318-a2af0ebf
+product_unique_id WP-DE-DM
+domain localhost/divi-mobile
+
+Response Body:
+[{"status":"success","status_code":"s100","message":"Licence Key Successfully activated for localhost\/divi-mobile","licence_status":"active"}]
+
+Response Server Response:
+code 200
+message OK
+------
+Arguments:
+woo_sl_action deactivate
+licence_key dm-unli-4c4fdeeb-0e384318-a2af0ebf
+product_unique_id WP-DE-DM
+domain localhost/divi-mobile
+
+Response Body:
+[{"status":"success","status_code":"s201","message":"Licence Key Successfully Unassigned."}]
+
+Response Server Response:
+code 200
+message OK
+------
+Arguments:
+woo_sl_action activate
+licence_key dm-unli-4c4fdeeb-0e384318-a2af0ebf
+product_unique_id WP-DE-DM
+domain localhost/divi-mobile
+
+Response Body:
+[{"status":"success","status_code":"s100","message":"Licence Key Successfully activated for localhost\/divi-mobile","licence_status":"active"}]
+
+Response Server Response:
+code 200
+message OK
+------
+Arguments:
+woo_sl_action deactivate
+licence_key dm-unli-4c4fdeeb-0e384318-a2af0ebf
+product_unique_id WP-DE-DM
+domain localhost/divi-mobile
+
+Response Body:
+[{"status":"success","status_code":"s201","message":"Licence Key Successfully Unassigned."}]
+
+Response Server Response:
+code 200
+message OK
